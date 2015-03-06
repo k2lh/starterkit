@@ -1,10 +1,38 @@
 <div class="container-fluid">
-    <div class="row-md-12">
-        <h2>{{alias.title}}</h2>
+    <div class="row">
+        <div class="col-md-2 col-sm-2">
+            <div class="circle" style="background: #{{alias.color}};"></div>
+        </div>
+        <div class="col-md-10 col-sm-10">
+            <h2>{{alias.title}}</h2>
+        </div>
     </div>
-    <div class="row-md-12">
-        <h4>{{alias.username}}'s profile</h4>
+    <div class="row">
+        <div class="col-md-12">
+            <h4>{{alias.username}}'s profile</h4>
+        </div>
     </div>
-
-
+    <div class="row">
+        <div class="col-md-12">
+            <p><i class="fa fa-eye-slash"></i> This profile is not visible to other users.</p>
+            <p>This profile wants some <i class="fa fa-birthday-cake"></i>.</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h4>Things to do:</h4>
+            <ul>
+                <li>Replace the colored circle with a different shape & add the shape to that user's entry in the json file.</li>
+                <li>Change the private/public setting based on the private setting in the json file.</li>
+                <li>Output the profile's links, but show only the first 10 links.</li>
+                <li>Set up a button to show/hide the text for a link, & hide the button if there's no text.</li>
+                <li>Use font-awesome to add icons to each link, only showing if the value is 1 (true), in the json.</li>
+                <li>Add a search field for the links.</li>
+                <li>Set up a drop-down that contains all the tags in the user's links json.</li>
+                <li>Filter the results based on the tag selection from the drop down.</li>
+                <li>Add pagination to the links, using angular-ui.</li>
+                <li>Apply a filter to the date to make it readable.</li>
+            </ul>
+        </div>
+    </div>
 </div>
