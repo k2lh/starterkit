@@ -1,11 +1,15 @@
 'use strict';
 
 angular
-  .module('inquisio')
-  .controller('viewBController' , viewBController);
+    .module('inquisio')
+    .controller('viewBController', ['$scope', '$http',
+        function ($scope, $http) {
 
-function viewBController($scope) {
-            
-    $scope.hello = "why hello there";
-    
-};
+            var userid = $scope.alias.userid;
+
+            $scope.userChange = function() {
+                console.log('hey');
+            }
+
+    }
+]);

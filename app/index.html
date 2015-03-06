@@ -26,6 +26,7 @@
     <script src="routes.js"></script>
 
     <!-- COMMON SERVICES/FACTORIES -->
+    <script src="shared/mainController.js"></script>
     <script src="shared/userFactory.js"></script>
 
     <!-- MODULE CONTROLLERS -->
@@ -35,15 +36,23 @@
 
 
 </head>
-<body>
+<body ng-controller="mainController">
     <div class="container-fluid">
+        <div class="col-md-4 col-sm-4">
+            <select class="form-control" ng-model="alias" ng-options="user.username for user in users" ng-change="userChange(user)"></select>
+        </div>
+        <div class="col-md-4 col-sm-4">
 
-
-        <a class="btn btn-default" href="#/viewA">viewA</a>
-        <a class="btn btn-default"  href="#/viewB">viewB</a>
+        </div>
+        <div class="col-md-2 col-sm-2">
+            <a class="btn btn-default  pull-right" href="#/viewA">viewA</a>
+        </div>
+        <div class="col-md-2 col-sm-2">
+            <a class="btn btn-default  pull-right"  href="#/viewB">viewB</a>
+        </div>
     </div>
 
-<div ng-view></div>
+    <div ng-view></div>
 
 </body>
 </html>

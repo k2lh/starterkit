@@ -1,675 +1,1335 @@
-{
-	"501": {
-	"url": "http://www.netmagazine.com/tutorials/preparing-application-distribution?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+net%2Ftopstories+%28.net+%29",
-	"added": "1326950283",
-	"private": "1",
-	"favorite": "1",
-	"nsfw": "1",
-	"tags": {
-	"tutorial",
-	"webdev",
-	"webapps"},
-	"title": "Preparing an application for distribution",
-	},"502": {
-	"url": "http://www.randsinrepose.com/archives/2011/06/29/dna.html#comments",
-	"added": "1326949849",
-	"favorite": "1",
-	"tags": {
-	"business",
-	"management"},
-	"title": "Rands In Repose: DNA",
-	},"503": {
-	"url": "http://www.adaptivepath.com/ideas/the-anatomy-of-an-experience-map",
-	"added": "1326949770",
-	"private": "1",
-	"favorite": "1",
-	"tags": {
-	"design",
-	"map",
-	"ux"},
-	"title": "The Anatomy of an Experience Map - Adaptive Path",
-	},"504": {
-	"url": "http://www.adaptivepath.com/ideas/overcoming-serious-service-sag",
-	"added": "1326949744",
-	"favorite": "1",
-	"tbr": "1",
-	"tags": {
-	"ecommerce",
-	"ux",
-	"business"},
-	"title": "Overcoming Serious Service Sag - Adaptive Path",
-	},"505": {
-	"url": "http://www.randsinrepose.com/archives/2011/01/17/managing_nerds.html",
-	"added": "1326949680",
-	"favorite": "1",
-	"wip": "1",
-	"tags": {
-	"nerds",
-	"management"},
-	"title": "Rands In Repose: Managing Nerds",
-	},"506": {
-	"url": "http://www.adaptivepath.com/ideas/my-personal-war-against-crackberry",
-	"added": "1326949592",
-	"favorite": "1",
-	"tags": {
-	"management",
-	"meeting"},
-	"title": "My personal war against Crackberry - Adaptive Path",
-	},"507": {
-	"url": "http://www.scottberkun.com/essays/40-why-smart-people-defend-bad-ideas/",
-	"added": "1326949405",
-	"wip": "1",
-	"nsfw": "1",
-	"tags": {
-	"management",
-	"communication"},
-	"title": "#40 – Why smart people defend bad ideas « Scott Berkun",
-	},"508": {
-	"url": "http://webdesign.tutsplus.com/articles/design-theory/designing-for-and-as-a-color-blind-person/",
-	"added": "1326949213",
-	"private": "1",
-	"wip": "1",
-	"tags": {
-	"usability",
-	"ux",
-	"accessibility",
-	"webdesign",
-	"color"},
-	"title": "Color Theory for the Color Blind | Webdesigntuts+",
-	},"509": {
-	"url": "http://webdesign.tutsplus.com/articles/design-theory/understanding-visual-hierarchy-in-web-design/",
-	"added": "1326949198",
-	"private": "1",
-	"wip": "1",
-	"nsfw": "1",
-	"tags": {
-	"ux",
-	"layout",
-	"webdesign"},
-	"title": "Understanding Visual Hierarchy in Web Design | Webdesigntuts+",
-	},"510": {
-	"url": "http://webdesign.tutsplus.com/articles/design-theory/using-metaphors-in-web-design/",
-	"added": "1326949178",
-	"wip": "1",
-	"tags": {
-	"ui",
-	"metaphor",
-	"webdesign"},
-	"title": "Using Metaphors in Web Design | Webdesigntuts+",
-	},"511": {
-	"url": "http://webdesign.tutsplus.com/articles/design-theory/what-we-can-learn-from-googles-new-ui/",
-	"added": "1326949154",
-	"private": "1",
-	"favorite": "1",
-	"wip": "1",
-	"tags": {
-	"ux",
-	"webdesign"},
-	"title": "What We Can Learn From Google’s New UI | Webdesigntuts+",
-	},"512": {
-	"url": "http://www.vanseodesign.com/social-media/forums-the-forgotten-social-media/",
-	"added": "1326949096",
-	"private": "1",
-	"favorite": "1",
-	"tags": {
-	"social media",
-	"forum"},
-	"title": "Forums: The Forgotten Social Media",
-	},"513": {
-	"url": "http://www.vanseodesign.com/social-media/social-impacts-search/",
-	"added": "1326949019",
-	"private": "1",
-	"tags": {
-	"search",
-	"social media"},
-	"title": "Thoughts On How Social Networks Impact Search Results | Van SEO Design",
-	},"514": {
-	"url": "http://designmodo.com/tools-page-loading-speed/",
-	"added": "1326948898",
-	"favorite": "1",
-	"wip": "1",
-	"tags": {
-	"performance",
-	"webdesign",
-	"tools"},
-	"title": "Tools to revamp Page Loading Speed - DesignModo",
-	},"515": {
-	"url": "http://www.worldchanging.com/archives/011386.html",
-	"added": "1326948737",
-	"private": "1",
-	"wip": "1",
-	"tbr": "1",
-	"tags": {
-	"culture",
-	"imperialism",
-	"design"},
-	"title": "The Problem with Design: Imperialism or Thinking Too Small?",
-	},"516": {
-	"url": "http://changeobserver.designobserver.com/feature/humanitarian-design-vs-design-imperialism-debate-summary/14498/",
-	"added": "1326948668",
-	"tags": {
-	"linkspam",
-	"privilege",
-	"imperialism",
-	"design"},
-	"title": "Humanitarian Design vs. Design Imperialism: Debate Summary",
-	},"517": {
-	"url": "http://changeobserver.designobserver.com/feature/in-defense-of-design-imperialism/14488/",
-	"added": "1326948633",
-	"private": "1",
-	"wip": "1",
-	"nsfw": "1",
-	"tags": {
-	"privilege",
-	"imperialism",
-	"design"},
-	"title": "In Defense of Design Imperialism: Change Observer: Design Observer",
-	},"518": {
-	"url": "http://www.t0.or.at/ueno/japan.htm",
-	"added": "1326948403",
-	"wip": "1",
-	"tbr": "1",
-	"tags": {
-	"culture",
-	"essentialism",
-	"postmodernism",
-	"japan"},
-	"title": "Japanimation and Techno-Orientalism",
-	},"519": {
-	"url": "http://www.nytimes.com/2006/03/19/movies/19solo.html",
-	"added": "1326948375",
-	"tags": {
-	"pop culture",
-	"animation",
-	"dialogue",
-	"storytelling"},
-	"title": "Pipe Down, We're Trying to Watch a Cartoon",
-	},"520": {
-	"url": "http://www.matt-thorn.com/mangagaku/faceoftheother.html",
-	"added": "1326948224",
-	"private": "1",
-	"tags": {
-	"pop culture",
-	"comics",
-	"race",
-	"manga"},
-	"title": "Do Manga Characters Look 'White'?",
-	},"521": {
-	"url": "http://www.matt-thorn.com/comicology/gnreviews.html",
-	"added": "1326948173",
-	"private": "1",
-	"wip": "1",
-	"tags": {
-	"critique",
-	"comics"},
-	"title": "Matt Thorn's Reviews of Graphic Novels",
-	},"522": {
-	"url": "http://www.roadsideamerica.com/story/9183",
-	"added": "1326947732",
-	"private": "1",
-	"favorite": "1",
-	"tags": {
-	"roadtrip",
-	"americana",
-	"kansas"},
-	"title": "World's Largest Easel, Goodland, Kansas",
-	},"523": {
-	"url": "http://www.preservationdirectory.com/MuseumsHistoricStructures/MuseumStructureCategories.aspx",
-	"added": "1326947690",
-	"private": "1",
-	"favorite": "1",
-	"tags": {
-	"architecture",
-	"canadiana",
-	"americana",
-	"history",
-	"architecture"},
-	"title": "Museums & Historic Structures",
-	},"524": {
-	"url": "http://www.roadsideamerica.com/story/2229",
-	"added": "1326947642",
-	"private": "1",
-	"tags": {
-	"americana",
-	"roadtrip"},
-	"title": "Hole N' The Rock, Moab, Utah",
-	},"525": {
-	"url": "http://www.obakemono.com/",
-	"added": "1326947413",
-	"private": "1",
-	"tags": {
-	"culture",
-	"japan",
-	"folklore"},
-	"title": "the Obakemono Project",
-	},"526": {
-	"url": "http://www.vikinganswerlady.com/oaths.shtml",
-	"added": "1326947374",
-	"private": "1",
-	"tags": {
-	"norse",
-	"history"},
-	"title": "In Service To The Crown: Warriors' Oaths To The King",
-	},"527": {
-	"url": "http://web.cn.edu/kwheeler/lit_terms.html",
-	"added": "1326947165",
-	"favorite": "1",
-	"tags": {
-	"literary terms",
-	"reference"},
-	"title": "Literary Terms and Definitions",
-	},"528": {
-	"url": "http://web.cn.edu/kwheeler/black_plague.html",
-	"added": "1326947097",
-	"favorite": "1",
-	"nsfw": "1",
-	"tags": {
-	"medieval",
-	"reference",
-	"history"},
-	"title": "Black Plague: The Least You Need to Know",
-	},"529": {
-	"url": "http://web.cn.edu/kwheeler/monster_list.html",
-	"added": "1326947079",
-	"wip": "1",
-	"tags": {
-	"monsters",
-	"medieval",
-	"folklore"},
-	"title": "List of Medieval and Ancient Monsters",
-	},"530": {
-	"url": "http://web.cn.edu/kwheeler/gram_viking_pattern.html",
-	"added": "1326947007",
-	"private": "1",
-	"favorite": "1",
-	"tbr": "1",
-	"tags": {
-	"reference",
-	"language",
-	"linguistics"},
-	"title": "One Little, Two Little, Three Little Vikings . . . .",
-	},"531": {
-	"url": "http://web.cn.edu/kwheeler/great_vowel_shift.html",
-	"added": "1326946960",
-	"nsfw": "1",
-	"tags": {
-	"history",
-	"linguistics"},
-	"title": "The Great Vowel Shift",
-	},"532": {
-	"url": "http://web.cn.edu/kwheeler/research_conflict.sources.html",
-	"added": "1326946948",
-	"tags": {
-	"linguistics",
-	"meaning"},
-	"title": "Conflicting Sources, a dialogue",
-	},"533": {
-	"url": "http://home.comcast.net/~modean52/oeme_dictionaries.htm",
-	"added": "1326946714",
-	"private": "1",
-	"wip": "1",
-	"tags": {
-	"reference",
-	"linguistics",
-	"oldenglish",
-	"dictionary"},
-	"title": "Old English Dictionary",
-	},"534": {
-	"url": "http://www.regalis.com/names.htm",
-	"added": "1326946677",
-	"private": "1",
-	"favorite": "1",
-	"nsfw": "1",
-	"tbr": "1",
-	"tags": {
-	"italy",
-	"names",
-	"research"},
-	"title": "Rare Given Names in Early Records",
-	},"535": {
-	"url": "http://mistupid.com/homeimpr/lumber.htm",
-	"added": "1326946499",
-	"nsfw": "1",
-	"tags": {
-	"construction",
-	"reference",
-	"lumber"},
-	"title": "Lumber Dimensions",
-	},"536": {
-	"url": "http://www.awc.org/calculators/span/calc/timbercalcstyle.asp",
-	"added": "1326946484",
-	"favorite": "1",
-	"wip": "1",
-	"tbr": "1",
-	"tags": {
-	"architecture",
-	"engineering",
-	"reference",
-	"construction",
-	"architecture"},
-	"title": "Maximum Span Calculator for Joists & Rafters",
-	},"537": {
-	"url": "http://blog.johntunger.com/2010/01/best-tweets-of-2009.html",
-	"added": "1326946464",
-	"private": "1",
-	"tbr": "1",
-	"tags": {
-	"twitter",
-	"humor",
-	"humor"},
-	"title": "Best Tweets of 2009: John T. Unger Sculptural Firebowls + Art",
-	},"538": {
-	"url": "http://www.woodbin.com/calcs/sagulator.htm",
-	"added": "1326946329",
-	"favorite": "1",
-	"nsfw": "1",
-	"tags": {
-	"woodwork",
-	"engineering",
-	"reference"},
-	"title": "The Sagulator - Shelf Sag Calculator",
-	},"539": {
-	"url": "http://www.diydata.com/general_building/sound_partition/partition_proof.php",
-	"added": "1326946311",
-	"private": "1",
-	"tags": {
-	"construction",
-	"architecture",
-	"architecture"},
-	"title": "Stud partition with sound proofing - the basic structure",
-	},"540": {
-	"url": "http://www.eichlersocal.com/tmbgallery.htm",
-	"added": "1326946238",
-	"favorite": "1",
-	"tags": {
-	"modernism",
-	"eichler",
-	"architecture",
-	"architecture"},
-	"title": "Gallery Thumbnails",
-	},"541": {
-	"url": "http://www.math.ucsd.edu/~fan/home/",
-	"added": "1326946125",
-	"private": "1",
-	"wip": "1",
-	"tbr": "1",
-	"tags": {
-	"modernism",
-	"architecture",
-	"architecture"},
-	"title": "Decor and Style Magazine: Home of the Year",
-	},"542": {
-	"url": "http://www.animemusicvideos.org/guides/avtech/",
-	"added": "1326945891",
-	"tbr": "1",
-	"tags": {
-	"reference",
-	"video",
-	"tutorial"},
-	"title": "A&E;'s Technical Guides to All Things Audio and Video",
-	},"543": {
-	"url": "http://www.netmagazine.com/node/1578?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+net%2Ftopstories+%28.net+%29",
-	"added": "1326945759",
-	"favorite": "1",
-	"tbr": "1",
-	"tags": {
-	"ux",
-	"interactivity",
-	"usability"},
-	"title": "10 steps to an engaging interactive user experience | Feature | .net magazine",
-	},"544": {
-	"url": "http://www.alvhemmakleri.se/index.php?page=hem-till-salu",
-	"added": "1326945711",
-	"private": "1",
-	"tags": {
-	"architecture",
-	"design",
-	"sweden",
-	"architecture"},
-	"title": "Linné, Vasastan och Kungshöjd | Alvhem Mäkleri och Interiör",
-	},"545": {
-	"url": "http://www.lagerlings.se/HemTillSalu.aspx",
-	"added": "1326945684",
-	"private": "1",
-	"favorite": "1",
-	"tbr": "1",
-	"tags": {
-	"sweden",
-	"architecture",
-	"design",
-	"architecture"},
-	"title": "Bostäder, bostadsrätt till salu på östermalm, strandvägen, mäklare - Lagerlings",
-	},"546": {
-	"url": "http://www.uxmatters.com/mt/archives/2007/04/interfaces-that-flow-transitions-as-design-elements.php",
-	"added": "1326945617",
-	"favorite": "1",
-	"nsfw": "1",
-	"tbr": "1",
-	"tags": {
-	"patterns",
-	"usability",
-	"transitions",
-	"ux"},
-	"title": "Interfaces That Flow: Transitions as Design Elements :: UXmatters",
-	},"547": {
-	"url": "http://borderhouseblog.com/?p=4190",
-	"added": "1326945595",
-	"tbr": "1",
-	"tags": {
-	"critique",
-	"gaming",
-	"gender"},
-	"title": "Ad Copy Done Wrong: BTO Online’s sexism, racism, & classism | Border House",
-	},"548": {
-	"url": "http://www.comicsalliance.com/2012/01/01/comics-infographics-2011/",
-	"added": "1326945124",
-	"private": "1",
-	"favorite": "1",
-	"tbr": "1",
-	"tags": {
-	"comics",
-	"infographics"},
-	"title": "The Complete 2011 Year-End Infographics - ComicsAlliance | Comic book culture, news, humor, commentary, and reviews",
-	},"549": {
-	"url": "http://www.comicsalliance.com/2012/01/05/jack-kirby-cia/",
-	"added": "1326945023",
-	"favorite": "1",
-	"nsfw": "1",
-	"tbr": "1",
-	"tags": {
-	"espionage",
-	"history",
-	"comics"},
-	"title": "How Jack Kirby's Art Helped the CIA Rescue Diplomats in 1979 - ComicsAlliance | Comic book culture, news, humor, commentary, and reviews",
-	},"550": {
-	"url": "http://www.comicsalliance.com/2012/01/12/20-amazingly-weird-pieces-of-classic-video-game-box-art/",
-	"added": "1326944987",
-	"private": "1",
-	"wip": "1",
-	"tags": {
-	"history",
-	"illustration",
-	"gaming",
-	"humor",
-	"humor"},
-	"title": "20 Amazingly Weird Pieces of 'Classic' Video Game Box Art - ComicsAlliance | Comic book culture, news, humor, commentary, and reviews",
-	},"551": {
-	"url": "http://www.comicsalliance.com/2012/01/10/redline-takeshi-koike-video-review/",
-	"added": "1326944906",
-	"tags": {
-	"film",
-	"animation",
-	"racing"},
-	"title": "Five Reasons You Need To See Takeshi Koike's 'Redline' [Video] - ComicsAlliance | Comic book culture, news, humor, commentary, and reviews",
-	},"552": {
-	"url": "http://www.comicsalliance.com/2012/01/17/dc-comics-logo-history/",
-	"added": "1326944768",
-	"private": "1",
-	"tags": {
-	"comics",
-	"humor",
-	"humor"},
-	"title": "The History of the DC Comic Logo, As Seen Through 70 Years of Internet Comments - ComicsAlliance | Comic book culture, news, humor, commentary, and reviews",
-	},"553": {
-	"url": "http://www.webresourcesdepot.com/making-ajax-applications-crawlable-by-google/",
-	"added": "1326944586",
-	"favorite": "1",
-	"tags": {
-	"tutorial",
-	"ajax"},
-	"title": "Making AJAX Applications Crawlable (By Google)",
-	},"554": {
-	"url": "http://www.boxesandarrows.com/view/storyboarding-ipad",
-	"added": "1326944513",
-	"favorite": "1",
-	"tags": {
-	"mobile",
-	"ux",
-	"transitions",
-	"storyboarding"},
-	"title": "Storyboarding iPad Transitions - Boxes and Arrows: The design behind the design",
-	},"555": {
-	"url": "http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/sass-and-compass-for-web-designers-introduction/",
-	"added": "1326944476",
-	"private": "1",
-	"tags": {
-	"code",
-	"css",
-	"tutorial"},
-	"title": "SASS and Compass for Web Designers: Introduction",
-	},"556": {
-	"url": "http://www.webresourcesdepot.com/28-high-quality-jquery-plugins-for-building-responsive-websites/",
-	"added": "1326944444",
-	"private": "1",
-	"tags": {
-	"webdesign",
-	"jquery",
-	"responsive"},
-	"title": "28 High-Quality jQuery Plugins For Building Responsive Websites",
-	},"557": {
-	"url": "http://uxdesign.smashingmagazine.com/2009/05/23/optimizing-conversion-rates-less-effort-more-customers/",
-	"added": "1326944415",
-	"tags": {
-	"ecommerce",
-	"webdesign",
-	"usability"},
-	"title": "Use Conversions To Generate More Conversions - Smashing UX Design | Smashing UX Design",
-	},"558": {
-	"url": "http://uxdesign.smashingmagazine.com/2012/01/10/it-works-for-you-a-user-centric-guideline-to-product-pages/",
-	"added": "1326944391",
-	"tbr": "1",
-	"tags": {
-	"usability",
-	"webdesign",
-	"ecommerce"},
-	"title": "It Works For 'You': A User-Centric Guideline To Product Pages - Smashing UX Design | Smashing UX Design",
-	},"559": {
-	"url": "http://uxdesign.smashingmagazine.com/2009/05/15/optimizing-conversion-rates-its-all-about-usability/",
-	"added": "1326944374",
-	"nsfw": "1",
-	"tags": {
-	"usability",
-	"ecommerce",
-	"webdesign"},
-	"title": "Optimizing Conversion Rates: It's All About Usability - Smashing UX Design | Smashing UX Design",
-	},"560": {
-	"url": "http://www.netmagazine.com/features/developer-s-guide-html5-apis",
-	"added": "1326944304",
-	"private": "1",
-	"nsfw": "1",
-	"tags": {
-	"webapps",
-	"reference",
-	"html5"},
-	"title": "The developer’s guide to the HTML5 APIs",
-	},"561": {
-	"url": "http://wp.smashingmagazine.com/2012/01/04/create-custom-taxonomies-wordpress/",
-	"added": "1326944278",
-	"private": "1",
-	"favorite": "1",
-	"tags": {
-	"tutorial",
-	"taxonomy",
-	"wordpress"},
-	"title": "How To Create Custom Taxonomies In WordPress - Smashing WordPress | Smashing WordPress",
-	},"562": {
-	"url": "http://www.netmagazine.com/tutorials/getting-started-html5-geolocation?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+net%2Ftopstories+%28.net+%29",
-	"added": "1326944256",
-	"tags": {
-	"webdev",
-	"webapps",
-	"geolocation"},
-	"title": "Getting started with HTML5 geolocation",
-	},"563": {
-	"url": "http://coding.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/",
-	"added": "1326944215",
-	"wip": "1",
-	"nsfw": "1",
-	"tbr": "1",
-	"tags": {
-	"code",
-	"webdesign",
-	"oop",
-	"css"},
-	"title": "An Introduction To Object Oriented CSS (OOCSS) - Smashing Coding | Smashing Coding",
-	},"564": {
-	"url": "http://www.webdesignerdepot.com/2011/12/15-productivity-tools-to-play-with/",
-	"added": "1326944179",
-	"wip": "1",
-	"nsfw": "1",
-	"tags": {
-	"resources",
-	"tools",
-	"productivity"},
-	"title": "15 productivity tools to play with | Webdesigner Depot",
-	},"565": {
-	"url": "http://www.impressivewebs.com/skills-front-end-developers/",
-	"added": "1326944147",
-	"private": "1",
-	"tags": {
-	"UI",
-	"code",
-	"skills"},
-	"title": "Skills for Front-End Developers | Impressive Webs",
-	},"566": {
-	"url": "http://www.alibony.com/pse/031508postcard.html",
-	"added": "1326944118",
-	"tbr": "1",
-	"tags": {
-	"tutorial",
-	"vintage",
-	"photoshop"},
-	"title": "Photoshop Elements: Photochrom Vintage Postcard",
-	},"567": {
-	"url": "http://inhabitat.com/125-haus-is-utah’s-most-energy-efficient-and-cost-effective-single-family-house/",
-	"added": "1326944080",
-	"private": "1",
-	"wip": "1",
-	"nsfw": "1",
-	"tbr": "1",
-	"tags": {
-	"energy-efficient",
-	"architecture",
-	"architecture"},
-	"title": "PHOTOS: 125 Haus is Utah’s Most Energy Efficient and Cost Effective Single Family House | Inhabitat - Green Design Will Save the World",
-	},"568": {
-	"url": "http://www.themarysue.com/for-they-are-weary-of-space-marines-why-some-men-are-playing-women-and-why-game-developers-should-take-note/2/",
-	"added": "1326943930",
-	"favorite": "1",
-	"wip": "1",
-	"tbr": "1",
-	"tags": {
-	"pop culture",
-	"gender"},
-	"title": "For They Are Weary of Space Marines: Why Some Men Are Playing Women, and Why Game Developers Should Take Note | The Mary Sue",
-	},"569": {
-	"url": "http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/get-into-less-the-programmable-stylesheet-language/",
-	"added": "1326943721",
-	"tags": {
-	"css",
-	"webdev",
-	"code",
-	"less"},
-	"title": "Get Into LESS: the Programmable Stylesheet Language",
-	}
-}
+[
+   {
+      "tagid":"501",
+      "url":"http://www.scientificamerican.com/article.cfm?id=elephants-never-forget",
+      "added":"1326950459",
+      "private":"1",
+      "favorite":"0",
+      "wip":"1",
+      "nsfw":"1",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"science",
+            "tag":"wildlife"
+         }
+      ],
+      "title":"Fact or Fiction?: Elephants Never Forget: Scientific American",
+      "text":"Blog crucifix street art, kale chips chambray 90's literally iPhone. Jean shorts meh fixie twee cornhole. Wes Anderson lomo cold-pressed, beard McSweeney's bicycle rights pop-up. Leggings cornhole Brooklyn, cardigan food truck synth skateboard dreamcatcher migas pop-up wayfarers Austin hella Vice. Banh mi letterpress health goth American Apparel vinyl artisan selvage. Wes Anderson selfies wayfarers, readymade fixie irony direct trade iPhone keffiyeh. Fingerstache listicle DIY meh blog, try-hard four loko Helvetica keffiyeh single-origin coffee art party scenester polaroid tote bag dreamcatcher."
+   },
+   {
+      "tagid":"502",
+      "url":"http://www.netmagazine.com/tutorials/preparing-application-distribution?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+net%2Ftopstories+%28.net+%29",
+      "added":"1326950283",
+      "private":"1",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"1",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"tutorial",
+            "tag":"webdev",
+            "tag":"webapps"
+         }
+      ],
+      "title":"Preparing an application for distribution",
+      "text":""
+   },
+   {
+      "tagid":"503",
+      "url":"http://www.randsinrepose.com/archives/2011/06/29/dna.html#comments",
+      "added":"1326949849",
+      "private":"0",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"business",
+            "tag":"management"
+         }
+      ],
+      "title":"Rands In Repose: DNA",
+      "text":"Pork belly kogi banh mi craft beer, tilde distillery chillwave actually gentrify mustache McSweeney's fap Echo Park vinyl meggings. Food truck selfies flexitarian blog, ugh mlkshk readymade. Pitchfork four dollar toast disrupt, food truck 8-bit mixtape gluten-free deep v PBR&B 3 wolf moon swag Blue Bottle."
+   },
+   {
+      "tagid":"504",
+      "url":"http://www.adaptivepath.com/ideas/the-anatomy-of-an-experience-map",
+      "added":"1326949770",
+      "private":"1",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"design",
+            "tag":"map",
+            "tag":"ux"
+         }
+      ],
+      "title":"The Anatomy of an Experience Map - Adaptive Path",
+      "text":"Before they sold out roof party pug vinyl occupy, tote bag Pitchfork plaid. Brunch Williamsburg cornhole, tousled jean shorts tote bag before they sold out scenester sustainable DIY slow-carb. Lo-fi chambray gastropub, bespoke master cleanse Intelligentsia taxidermy bitters quinoa direct trade tofu bicycle rights kale chips. Banh mi paleo blog, master cleanse kale chips actually ennui crucifix wolf Bushwick. Hashtag asymmetrical four loko banjo single-origin coffee. Shoreditch ennui vegan heirloom, four loko mustache Intelligentsia. Cornhole put a bird on it whatever Carles."
+   },
+   {
+      "tagid":"505",
+      "url":"http://www.adaptivepath.com/ideas/overcoming-serious-service-sag",
+      "added":"1326949744",
+      "private":"0",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"ecommerce",
+            "tag":"ux",
+            "tag":"business"
+         }
+      ],
+      "title":"Overcoming Serious Service Sag - Adaptive Path",
+      "text":"Shade valuable stitching bold trendwatching sportswear glitter trend photography catwalk. Comfortable industry fashion bows halter jumper. Hand-made model sewing replicate measurement handbag tailor identity jewelry impeccable stock necessity. Prediction unique sari zipper sportswear contemporary Haute-couture xl garment taste independant clothing pret-a-porter quantity."
+   },
+   {
+      "tagid":"506",
+      "url":"http://www.randsinrepose.com/archives/2011/01/17/managing_nerds.html",
+      "added":"1326949680",
+      "private":"0",
+      "favorite":"1",
+      "wip":"1",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"nerds",
+            "tag":"management"
+         }
+      ],
+      "title":"Rands In Repose: Managing Nerds",
+      "text":"Brownie topping sesame snaps tart oat cake cake cotton candy tootsie roll gingerbread. Oat cake tart jelly beans chocolate cake lollipop bonbon. Gummi bears jujubes chocolate bar croissant halvah cotton candy chocolate cake carrot cake. Gummies jelly-o biscuit sweet bear claw candy canes candy canes cheesecake. Fruitcake cotton candy chupa chups. Liquorice bonbon tart bonbon."
+   },
+   {
+      "tagid":"507",
+      "url":"http://www.adaptivepath.com/ideas/my-personal-war-against-crackberry",
+      "added":"1326949592",
+      "private":"0",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"management",
+            "tag":"meeting"
+         }
+      ],
+      "title":"My personal war against Crackberry - Adaptive Path",
+      "text":""
+   },
+   {
+      "tagid":"508",
+      "url":"http://www.scottberkun.com/essays/40-why-smart-people-defend-bad-ideas/",
+      "added":"1326949405",
+      "private":"0",
+      "favorite":"0",
+      "wip":"1",
+      "nsfw":"1",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"management",
+            "tag":"communication"
+         }
+      ],
+      "title":"#40 – Why smart people defend bad ideas « Scott Berkun",
+      "text":"Skateboard High Life fap bicycle rights Bushwick. Stumptown distillery Carles church-key cliche. Beard VHS XOXO tilde, fashion axe sriracha trust fund swag 3 wolf moon Truffaut church-key High Life. Squid health goth iPhone, asymmetrical four loko 90's keytar art party food truck farm-to-table umami. Photo booth +1 meggings, Godard listicle bicycle rights lomo distillery. Stumptown Thundercats blog, farm-to-table leggings cliche Etsy narwhal irony. Direct trade tote bag hashtag, farm-to-table pour-over DIY bespoke food truck banjo."
+   },
+   {
+      "tagid":"509",
+      "url":"http://webdesign.tutsplus.com/articles/design-theory/designing-for-and-as-a-color-blind-person/",
+      "added":"1326949213",
+      "private":"1",
+      "favorite":"0",
+      "wip":"1",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"usability",
+            "tag":"ux",
+            "tag":"accessibility",
+            "tag":"webdesign",
+            "tag":"color"
+         }
+      ],
+      "title":"Color Theory for the Color Blind | Webdesigntuts+",
+      "text":"Ecosystem sales investor social media seed round. Ramen investor product management social proof MVP business-to-business handshake buyer seed round strategy customer. Monetization crowdfunding deployment. Channels paradigm shift user experience accelerator. Entrepreneur launch party business-to-consumer supply chain strategy user experience influencer customer bootstrapping pivot venture. Funding ecosystem direct mailing alpha vesting period customer ownership www.discoverartisans.com. Conversion traction virality."
+   },
+   {
+      "tagid":"510",
+      "url":"http://webdesign.tutsplus.com/articles/design-theory/understanding-visual-hierarchy-in-web-design/",
+      "added":"1326949198",
+      "private":"1",
+      "favorite":"0",
+      "wip":"1",
+      "nsfw":"1",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"ux",
+            "tag":"layout",
+            "tag":"webdesign"
+         }
+      ],
+      "title":"Understanding Visual Hierarchy in Web Design | Webdesigntuts+",
+      "text":""
+   },
+   {
+      "tagid":"511",
+      "url":"http://webdesign.tutsplus.com/articles/design-theory/using-metaphors-in-web-design/",
+      "added":"1326949178",
+      "private":"0",
+      "favorite":"0",
+      "wip":"1",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"ui",
+            "tag":"metaphor",
+            "tag":"webdesign"
+         }
+      ],
+      "title":"Using Metaphors in Web Design | Webdesigntuts+",
+      "text":"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. "
+   },
+   {
+      "tagid":"512",
+      "url":"http://webdesign.tutsplus.com/articles/design-theory/what-we-can-learn-from-googles-new-ui/",
+      "added":"1326949154",
+      "private":"1",
+      "favorite":"1",
+      "wip":"1",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"ux",
+            "tag":"webdesign"
+         }
+      ],
+      "title":"What We Can Learn From Google’s New UI | Webdesigntuts+",
+      "text":""
+   },
+   {
+      "tagid":"513",
+      "url":"http://www.vanseodesign.com/social-media/forums-the-forgotten-social-media/",
+      "added":"1326949096",
+      "private":"1",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"social media",
+            "tag":"forum"
+         }
+      ],
+      "title":"Forums: The Forgotten Social Media",
+      "text":"Tentativa habituara conformar embutidos conquista dou que paz por. Mas ama censura conheco sei sorriso vem infimos. Sublime tem examina dizendo mau arranja minutos osculou dar luz. Falta vedes noite feras bom mudos parar ate. Pensam ir trouxe lindos inigma fallar quadro do. Desdemnao rir obedecido incommodo adquirido lamuriava pao confessas. Noticia jorgeos sombrio la familia ii repetir aspecto."
+   },
+   {
+      "tagid":"514",
+      "url":"http://www.vanseodesign.com/social-media/social-impacts-search/",
+      "added":"1326949019",
+      "private":"1",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"search",
+            "tag":"social media"
+         }
+      ],
+      "title":"Thoughts On How Social Networks Impact Search Results | Van SEO Design",
+      "text":"Chocolate bar cheesecake oat cake gummies. Jelly-o jelly beans apple pie biscuit. Macaroon chocolate bar bonbon pastry gummi bears carrot cake brownie. Croissant cheesecake marshmallow danish tart oat cake marzipan cake cotton candy. Cupcake tiramisu sesame snaps cookie candy canes. Dessert caramels gummies oat cake tart. Jelly macaroon jujubes topping marshmallow."
+   },
+   {
+      "tagid":"515",
+      "url":"http://designmodo.com/tools-page-loading-speed/",
+      "added":"1326948898",
+      "private":"0",
+      "favorite":"1",
+      "wip":"1",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"performance",
+            "tag":"webdesign",
+            "tag":"tools"
+         }
+      ],
+      "title":"Tools to revamp Page Loading Speed - DesignModo",
+      "text":"Yr pickled hashtag, chia Helvetica leggings synth beard bicycle rights viral High Life four loko selvage. Thundercats pickled listicle iPhone hella, fap swag farm-to-table. Narwhal fap wayfarers crucifix, Truffaut artisan cardigan occupy authentic. Sustainable ugh street art, PBR&B cliche High Life bitters Portland slow-carb vegan kogi Carles pour-over XOXO 90's. Tote bag synth aesthetic, semiotics messenger bag wolf small batch jean shorts cray. Cray tattooed High Life, lo-fi twee crucifix irony. Next level ethical Tumblr, gastropub literally McSweeney's Thundercats American Apparel stumptown bitters pickled biodiesel."
+   },
+   {
+      "tagid":"516",
+      "url":"http://www.worldchanging.com/archives/011386.html",
+      "added":"1326948737",
+      "private":"1",
+      "favorite":"0",
+      "wip":"1",
+      "nsfw":"0",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"culture",
+            "tag":"imperialism",
+            "tag":"design"
+         }
+      ],
+      "title":"The Problem with Design: Imperialism or Thinking Too Small?",
+      "text":"Social proof bootstrapping infographic first mover advantage www.discoverartisans.com long tail founders client leverage branding. Infographic iteration long tail rockstar angel investor burn rate hackathon."
+   },
+   {
+      "tagid":"517",
+      "url":"http://changeobserver.designobserver.com/feature/humanitarian-design-vs-design-imperialism-debate-summary/14498/",
+      "added":"1326948668",
+      "private":"0",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"linkspam",
+            "tag":"privilege",
+            "tag":"imperialism",
+            "tag":"design"
+         }
+      ],
+      "title":"Humanitarian Design vs. Design Imperialism: Debate Summary",
+      "text":""
+   },
+   {
+      "tagid":"518",
+      "url":"http://changeobserver.designobserver.com/feature/in-defense-of-design-imperialism/14488/",
+      "added":"1326948633",
+      "private":"1",
+      "favorite":"0",
+      "wip":"1",
+      "nsfw":"1",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"privilege",
+            "tag":"imperialism",
+            "tag":"design"
+         }
+      ],
+      "title":"In Defense of Design Imperialism: Change Observer: Design Observer",
+      "text":"Blue Bottle Williamsburg lo-fi polaroid Truffaut. Retro deep v High Life, yr Intelligentsia aesthetic squid gentrify Echo Park. Stumptown actually Helvetica, leggings sustainable vinyl church-key farm-to-table +1 jean shorts sartorial Truffaut literally. Normcore sartorial XOXO, kogi direct trade Thundercats stumptown beard gentrify pickled."
+   },
+   {
+      "tagid":"519",
+      "url":"http://www.t0.or.at/ueno/japan.htm",
+      "added":"1326948403",
+      "private":"0",
+      "favorite":"0",
+      "wip":"1",
+      "nsfw":"0",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"culture",
+            "tag":"essentialism",
+            "tag":"postmodernism",
+            "tag":"japan"
+         }
+      ],
+      "title":"Japanimation and Techno-Orientalism",
+      "text":""
+   },
+   {
+      "tagid":"520",
+      "url":"http://www.nytimes.com/2006/03/19/movies/19solo.html",
+      "added":"1326948375",
+      "private":"0",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"pop culture",
+            "tag":"animation",
+            "tag":"dialogue",
+            "tag":"storytelling"
+         }
+      ],
+      "title":"Pipe Down, We're Trying to Watch a Cartoon",
+      "text":"Fashion axe post-ironic Tumblr normcore salvia. Four dollar toast Etsy pickled, drinking vinegar chia butcher DIY XOXO flexitarian fap craft beer lomo raw denim twee. Gentrify tousled plaid pickled, raw denim YOLO tilde flannel beard DIY selvage tofu health goth. Tousled flannel butcher bespoke, ennui salvia put a bird on it. Slow-carb keytar Pinterest literally."
+   },
+   {
+      "tagid":"521",
+      "url":"http://www.matt-thorn.com/mangagaku/faceoftheother.html",
+      "added":"1326948224",
+      "private":"1",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"pop culture",
+            "tag":"comics",
+            "tag":"race",
+            "tag":"manga"
+         }
+      ],
+      "title":"Do Manga Characters Look 'White'?",
+      "text":""
+   },
+   {
+      "tagid":"522",
+      "url":"http://www.matt-thorn.com/comicology/gnreviews.html",
+      "added":"1326948173",
+      "private":"1",
+      "favorite":"0",
+      "wip":"1",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"critique",
+            "tag":"comics"
+         }
+      ],
+      "title":"Matt Thorn's Reviews of Graphic Novels",
+      "text":"Aesthetic hashtag skateboard, Intelligentsia flexitarian tousled ennui locavore synth before they sold out mumblecore deep v Austin next level. Asymmetrical health goth chia, church-key flannel hoodie sriracha cold-pressed PBR lumbersexual 90's. Small batch mumblecore ennui sriracha chambray heirloom, craft beer McSweeney's biodiesel master cleanse tilde chillwave pop-up hella jean shorts. Wayfarers DIY single-origin coffee iPhone, chambray Williamsburg semiotics. Etsy beard migas, wolf occupy four dollar toast pug scenester crucifix DIY 8-bit iPhone farm-to-table. Meggings keytar pug, biodiesel bespoke asymmetrical Austin 8-bit small batch synth whatever. 90's VHS Portland, Truffaut small batch pug scenester hoodie pickled."
+   },
+   {
+      "tagid":"523",
+      "url":"http://www.roadsideamerica.com/story/9183",
+      "added":"1326947732",
+      "private":"1",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"roadtrip",
+            "tag":"americana",
+            "tag":"kansas"
+         }
+      ],
+      "title":"World's Largest Easel, Goodland, Kansas",
+      "text":"Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles."
+   },
+   {
+      "tagid":"524",
+      "url":"http://www.preservationdirectory.com/MuseumsHistoricStructures/MuseumStructureCategories.aspx",
+      "added":"1326947690",
+      "private":"1",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"architecture",
+            "tag":"canadiana",
+            "tag":"americana",
+            "tag":"history",
+            "tag":"architecture"
+         }
+      ],
+      "title":"Museums & Historic Structures",
+      "text":""
+   },
+   {
+      "tagid":"525",
+      "url":"http://www.roadsideamerica.com/story/2229",
+      "added":"1326947642",
+      "private":"1",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"americana",
+            "tag":"roadtrip"
+         }
+      ],
+      "title":"Hole N' The Rock, Moab, Utah",
+      "text":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. "
+   },
+   {
+      "tagid":"526",
+      "url":"http://www.obakemono.com/",
+      "added":"1326947413",
+      "private":"1",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"culture",
+            "tag":"japan",
+            "tag":"folklore"
+         }
+      ],
+      "title":"the Obakemono Project",
+      "text":""
+   },
+   {
+      "tagid":"527",
+      "url":"http://www.vikinganswerlady.com/oaths.shtml",
+      "added":"1326947374",
+      "private":"1",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"norse",
+            "tag":"history"
+         }
+      ],
+      "title":"In Service To The Crown: Warriors' Oaths To The King",
+      "text":"Luxurious make up collection. Pastel urban tailor contemporary high heels casual clothing expensive. Waistline shape conformity allure stock old-fashioned signature leotard fashion accessory. Craftmanship sportswear couture stitching attractive old-fashioned hair petticoat quality hippie zipper."
+   },
+   {
+      "tagid":"528",
+      "url":"http://web.cn.edu/kwheeler/lit_terms.html",
+      "added":"1326947165",
+      "private":"0",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"literary terms",
+            "tag":"reference"
+         }
+      ],
+      "title":"Literary Terms and Definitions",
+      "text":"Pork belly kogi banh mi craft beer, tilde distillery chillwave actually gentrify mustache McSweeney's fap Echo Park vinyl meggings. Food truck selfies flexitarian blog, ugh mlkshk readymade. Pitchfork four dollar toast disrupt, food truck 8-bit mixtape gluten-free deep v PBR&B 3 wolf moon swag Blue Bottle."
+   },
+   {
+      "tagid":"529",
+      "url":"http://web.cn.edu/kwheeler/black_plague.html",
+      "added":"1326947097",
+      "private":"0",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"1",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"medieval",
+            "tag":"reference",
+            "tag":"history"
+         }
+      ],
+      "title":"Black Plague: The Least You Need to Know",
+      "text":""
+   },
+   {
+      "tagid":"530",
+      "url":"http://web.cn.edu/kwheeler/monster_list.html",
+      "added":"1326947079",
+      "private":"0",
+      "favorite":"0",
+      "wip":"1",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"monsters",
+            "tag":"medieval",
+            "tag":"folklore"
+         }
+      ],
+      "title":"List of Medieval and Ancient Monsters",
+      "text":"Porta decor savez des peres oui masse noces air. Entendu tendues ou un station xv je cavites. Ces pauvrete cherirai fit vin bravoure appareil. Revolution arriverent me de tricolores convulsion petitement vieillards. Peu militaire bon entremise oui conquerir cauchemar bourreaux mes. La revele qu du poemes guerre contes tu. Oui par cathedrale descendons patiemment eux. Noces terre te et frire rirez. Fit divergent positions universel gendarmes peu dur. Ma au va laissons kolbacks ouvertes il radieuse. Offrir coiffe rachat la simple ce il brumes. Ras unir tira cime pile ici faux nuit. Signalant mur que annoncait indicible assassins dentelles six. Ils non non ville car sorte wagon. Craignait sa situation il orientaux on capitaine frontiere. Moins tetes ils reste roc frire ville nos. Imprudente compassion de du condamnait la et. Fin egorger son maigres feu puisque dut."
+   },
+   {
+      "tagid":"531",
+      "url":"http://web.cn.edu/kwheeler/gram_viking_pattern.html",
+      "added":"1326947007",
+      "private":"1",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"reference",
+            "tag":"language",
+            "tag":"linguistics"
+         }
+      ],
+      "title":"One Little, Two Little, Three Little Vikings . . . .",
+      "text":""
+   },
+   {
+      "tagid":"532",
+      "url":"http://web.cn.edu/kwheeler/great_vowel_shift.html",
+      "added":"1326946960",
+      "private":"0",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"1",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"history",
+            "tag":"linguistics"
+         }
+      ],
+      "title":"The Great Vowel Shift",
+      "text":"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. "
+   },
+   {
+      "tagid":"533",
+      "url":"http://web.cn.edu/kwheeler/research_conflict.sources.html",
+      "added":"1326946948",
+      "private":"0",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"linguistics",
+            "tag":"meaning"
+         }
+      ],
+      "title":"Conflicting Sources, a dialogue",
+      "text":"Yr pickled hashtag, chia Helvetica leggings synth beard bicycle rights viral High Life four loko selvage. Thundercats pickled listicle iPhone hella, fap swag farm-to-table. Narwhal fap wayfarers crucifix, Truffaut artisan cardigan occupy authentic. Sustainable ugh street art, PBR&B cliche High Life bitters Portland slow-carb vegan kogi Carles pour-over XOXO 90's. Tote bag synth aesthetic, semiotics messenger bag wolf small batch jean shorts cray. Cray tattooed High Life, lo-fi twee crucifix irony. Next level ethical Tumblr, gastropub literally McSweeney's Thundercats American Apparel stumptown bitters pickled biodiesel."
+   },
+   {
+      "tagid":"534",
+      "url":"http://home.comcast.net/~modean52/oeme_dictionaries.htm",
+      "added":"1326946714",
+      "private":"1",
+      "favorite":"0",
+      "wip":"1",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"reference",
+            "tag":"linguistics",
+            "tag":"oldenglish",
+            "tag":"dictionary"
+         }
+      ],
+      "title":"Old English Dictionary",
+      "text":"Meditation single-origin coffee butcher next level plaid. Occupy jean shorts quinoa, seitan taxidermy chambray cred meh mumblecore bicycle rights shabby chic. Pinterest stumptown keytar chia Echo Park 90's, asymmetrical Helvetica food truck Blue Bottle art party forage Vice meditation. Food truck Austin polaroid church-key, normcore listicle paleo heirloom Williamsburg distillery hoodie. Mixtape roof party Vice squid kitsch trust fund. IPhone meditation polaroid street art leggings American Apparel, next level fanny pack four dollar toast. High Life bicycle rights heirloom flannel."
+   },
+   {
+      "tagid":"535",
+      "url":"http://www.regalis.com/names.htm",
+      "added":"1326946677",
+      "private":"1",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"1",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"italy",
+            "tag":"names",
+            "tag":"research"
+         }
+      ],
+      "title":"Rare Given Names in Early Records",
+      "text":""
+   },
+   {
+      "tagid":"536",
+      "url":"http://mistupid.com/homeimpr/lumber.htm",
+      "added":"1326946499",
+      "private":"0",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"1",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"construction",
+            "tag":"reference",
+            "tag":"lumber"
+         }
+      ],
+      "title":"Lumber Dimensions",
+      "text":"Bezocht der zou stroeve ver smelter moderne het sommige. Al in welks hevea dagen geldt. Chinees op beperkt ik af ontdaan. Grooter valorem te gropeng af. Jaarlijks moerassen wat oog federatie dal. Gesteld in tijgers daarbij bestaat opening ik en. Getracht gewonnen aan rug wasschen inwoners lot had."
+   },
+   {
+      "tagid":"537",
+      "url":"http://www.awc.org/calculators/span/calc/timbercalcstyle.asp",
+      "added":"1326946484",
+      "private":"0",
+      "favorite":"1",
+      "wip":"1",
+      "nsfw":"0",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"architecture",
+            "tag":"engineering",
+            "tag":"reference",
+            "tag":"construction",
+            "tag":"architecture"
+         }
+      ],
+      "title":"Maximum Span Calculator for Joists & Rafters",
+      "text":"Brownie topping sesame snaps tart oat cake cake cotton candy tootsie roll gingerbread. Oat cake tart jelly beans chocolate cake lollipop bonbon. Gummi bears jujubes chocolate bar croissant halvah cotton candy chocolate cake carrot cake. Gummies jelly-o biscuit sweet bear claw candy canes candy canes cheesecake. Fruitcake cotton candy chupa chups. Liquorice bonbon tart bonbon."
+   },
+   {
+      "tagid":"538",
+      "url":"http://blog.johntunger.com/2010/01/best-tweets-of-2009.html",
+      "added":"1326946464",
+      "private":"1",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"twitter",
+            "tag":"humor",
+            "tag":"humor"
+         }
+      ],
+      "title":"Best Tweets of 2009: John T. Unger Sculptural Firebowls + Art",
+      "text":"Social proof bootstrapping infographic first mover advantage www.discoverartisans.com long tail founders client leverage branding. Infographic iteration long tail rockstar angel investor burn rate hackathon."
+   },
+   {
+      "tagid":"539",
+      "url":"http://www.woodbin.com/calcs/sagulator.htm",
+      "added":"1326946329",
+      "private":"0",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"1",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"woodwork",
+            "tag":"engineering",
+            "tag":"reference"
+         }
+      ],
+      "title":"The Sagulator - Shelf Sag Calculator",
+      "text":""
+   },
+   {
+      "tagid":"540",
+      "url":"http://www.diydata.com/general_building/sound_partition/partition_proof.php",
+      "added":"1326946311",
+      "private":"1",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"construction",
+            "tag":"architecture",
+            "tag":"architecture"
+         }
+      ],
+      "title":"Stud partition with sound proofing - the basic structure",
+      "text":"Skateboard High Life fap bicycle rights Bushwick. Stumptown distillery Carles church-key cliche. Beard VHS XOXO tilde, fashion axe sriracha trust fund swag 3 wolf moon Truffaut church-key High Life. Squid health goth iPhone, asymmetrical four loko 90's keytar art party food truck farm-to-table umami. Photo booth +1 meggings, Godard listicle bicycle rights lomo distillery. Stumptown Thundercats blog, farm-to-table leggings cliche Etsy narwhal irony. Direct trade tote bag hashtag, farm-to-table pour-over DIY bespoke food truck banjo."
+   },
+   {
+      "tagid":"541",
+      "url":"http://www.eichlersocal.com/tmbgallery.htm",
+      "added":"1326946238",
+      "private":"0",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"modernism",
+            "tag":"eichler",
+            "tag":"architecture",
+            "tag":"architecture"
+         }
+      ],
+      "title":"Gallery Thumbnails",
+      "text":"One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.  It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame."
+   },
+   {
+      "tagid":"542",
+      "url":"http://www.math.ucsd.edu/~fan/home/",
+      "added":"1326946125",
+      "private":"1",
+      "favorite":"0",
+      "wip":"1",
+      "nsfw":"0",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"modernism",
+            "tag":"architecture",
+            "tag":"architecture"
+         }
+      ],
+      "title":"Decor and Style Magazine: Home of the Year",
+      "text":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. "
+   },
+   {
+      "tagid":"543",
+      "url":"http://www.animemusicvideos.org/guides/avtech/",
+      "added":"1326945891",
+      "private":"0",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"reference",
+            "tag":"video",
+            "tag":"tutorial"
+         }
+      ],
+      "title":"A&E;'s Technical Guides to All Things Audio and Video",
+      "text":"Blue Bottle Williamsburg lo-fi polaroid Truffaut. Retro deep v High Life, yr Intelligentsia aesthetic squid gentrify Echo Park. Stumptown actually Helvetica, leggings sustainable vinyl church-key farm-to-table +1 jean shorts sartorial Truffaut literally. Normcore sartorial XOXO, kogi direct trade Thundercats stumptown beard gentrify pickled."
+   },
+   {
+      "tagid":"544",
+      "url":"http://www.netmagazine.com/node/1578?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+net%2Ftopstories+%28.net+%29",
+      "added":"1326945759",
+      "private":"0",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"ux",
+            "tag":"interactivity",
+            "tag":"usability"
+         }
+      ],
+      "title":"10 steps to an engaging interactive user experience | Feature | .net magazine",
+      "text":"Shade valuable stitching bold trendwatching sportswear glitter trend photography catwalk. Comfortable industry fashion bows halter jumper. Hand-made model sewing replicate measurement handbag tailor identity jewelry impeccable stock necessity. Prediction unique sari zipper sportswear contemporary Haute-couture xl garment taste independant clothing pret-a-porter quantity."
+   },
+   {
+      "tagid":"545",
+      "url":"http://www.alvhemmakleri.se/index.php?page=hem-till-salu",
+      "added":"1326945711",
+      "private":"1",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"architecture",
+            "tag":"design",
+            "tag":"sweden",
+            "tag":"architecture"
+         }
+      ],
+      "title":"Linné, Vasastan och Kungshöjd | Alvhem Mäkleri och Interiör",
+      "text":""
+   },
+   {
+      "tagid":"546",
+      "url":"http://www.lagerlings.se/HemTillSalu.aspx",
+      "added":"1326945684",
+      "private":"1",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"sweden",
+            "tag":"architecture",
+            "tag":"design",
+            "tag":"architecture"
+         }
+      ],
+      "title":"Bostäder, bostadsrätt till salu på östermalm, strandvägen, mäklare - Lagerlings",
+      "text":"Chocolate bar cheesecake oat cake gummies. Jelly-o jelly beans apple pie biscuit. Macaroon chocolate bar bonbon pastry gummi bears carrot cake brownie. Croissant cheesecake marshmallow danish tart oat cake marzipan cake cotton candy. Cupcake tiramisu sesame snaps cookie candy canes. Dessert caramels gummies oat cake tart. Jelly macaroon jujubes topping marshmallow."
+   },
+   {
+      "tagid":"547",
+      "url":"http://www.uxmatters.com/mt/archives/2007/04/interfaces-that-flow-transitions-as-design-elements.php",
+      "added":"1326945617",
+      "private":"0",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"1",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"patterns",
+            "tag":"usability",
+            "tag":"transitions",
+            "tag":"ux"
+         }
+      ],
+      "title":"Interfaces That Flow: Transitions as Design Elements :: UXmatters",
+      "text":"Before they sold out roof party pug vinyl occupy, tote bag Pitchfork plaid. Brunch Williamsburg cornhole, tousled jean shorts tote bag before they sold out scenester sustainable DIY slow-carb. Lo-fi chambray gastropub, bespoke master cleanse Intelligentsia taxidermy bitters quinoa direct trade tofu bicycle rights kale chips. Banh mi paleo blog, master cleanse kale chips actually ennui crucifix wolf Bushwick. Hashtag asymmetrical four loko banjo single-origin coffee. Shoreditch ennui vegan heirloom, four loko mustache Intelligentsia. Cornhole put a bird on it whatever Carles."
+   },
+   {
+      "tagid":"548",
+      "url":"http://borderhouseblog.com/?p=4190",
+      "added":"1326945595",
+      "private":"0",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"critique",
+            "tag":"gaming",
+            "tag":"gender"
+         }
+      ],
+      "title":"Ad Copy Done Wrong: BTO Online’s sexism, racism, & classism | Border House",
+      "text":"Fashion axe post-ironic Tumblr normcore salvia. Four dollar toast Etsy pickled, drinking vinegar chia butcher DIY XOXO flexitarian fap craft beer lomo raw denim twee. Gentrify tousled plaid pickled, raw denim YOLO tilde flannel beard DIY selvage tofu health goth. Tousled flannel butcher bespoke, ennui salvia put a bird on it. Slow-carb keytar Pinterest literally."
+   },
+   {
+      "tagid":"549",
+      "url":"http://www.comicsalliance.com/2012/01/01/comics-infographics-2011/",
+      "added":"1326945124",
+      "private":"1",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"comics",
+            "tag":"infographics"
+         }
+      ],
+      "title":"The Complete 2011 Year-End Infographics - ComicsAlliance | Comic book culture, news, humor, commentary, and reviews",
+      "text":"Pork belly kogi banh mi craft beer, tilde distillery chillwave actually gentrify mustache McSweeney's fap Echo Park vinyl meggings. Food truck selfies flexitarian blog, ugh mlkshk readymade. Pitchfork four dollar toast disrupt, food truck 8-bit mixtape gluten-free deep v PBR&B 3 wolf moon swag Blue Bottle."
+   },
+   {
+      "tagid":"550",
+      "url":"http://www.comicsalliance.com/2012/01/05/jack-kirby-cia/",
+      "added":"1326945023",
+      "private":"0",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"1",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"espionage",
+            "tag":"history",
+            "tag":"comics"
+         }
+      ],
+      "title":"How Jack Kirby's Art Helped the CIA Rescue Diplomats in 1979 - ComicsAlliance | Comic book culture, news, humor, commentary, and reviews",
+      "text":""
+   },
+   {
+      "tagid":"551",
+      "url":"http://www.comicsalliance.com/2012/01/12/20-amazingly-weird-pieces-of-classic-video-game-box-art/",
+      "added":"1326944987",
+      "private":"1",
+      "favorite":"0",
+      "wip":"1",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"history",
+            "tag":"illustration",
+            "tag":"gaming",
+            "tag":"humor",
+            "tag":"humor"
+         }
+      ],
+      "title":"20 Amazingly Weird Pieces of 'Classic' Video Game Box Art - ComicsAlliance | Comic book culture, news, humor, commentary, and reviews",
+      "text":"Blog crucifix street art, kale chips chambray 90's literally iPhone. Jean shorts meh fixie twee cornhole. Wes Anderson lomo cold-pressed, beard McSweeney's bicycle rights pop-up. Leggings cornhole Brooklyn, cardigan food truck synth skateboard dreamcatcher migas pop-up wayfarers Austin hella Vice. Banh mi letterpress health goth American Apparel vinyl artisan selvage. Wes Anderson selfies wayfarers, readymade fixie irony direct trade iPhone keffiyeh. Fingerstache listicle DIY meh blog, try-hard four loko Helvetica keffiyeh single-origin coffee art party scenester polaroid tote bag dreamcatcher."
+   },
+   {
+      "tagid":"552",
+      "url":"http://www.comicsalliance.com/2012/01/10/redline-takeshi-koike-video-review/",
+      "added":"1326944906",
+      "private":"0",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"film",
+            "tag":"animation",
+            "tag":"racing"
+         }
+      ],
+      "title":"Five Reasons You Need To See Takeshi Koike's 'Redline' [Video] - ComicsAlliance | Comic book culture, news, humor, commentary, and reviews",
+      "text":"Blog crucifix street art, kale chips chambray 90's literally iPhone. Jean shorts meh fixie twee cornhole. Wes Anderson lomo cold-pressed, beard McSweeney's bicycle rights pop-up. Leggings cornhole Brooklyn, cardigan food truck synth skateboard dreamcatcher migas pop-up wayfarers Austin hella Vice. Banh mi letterpress health goth American Apparel vinyl artisan selvage. Wes Anderson selfies wayfarers, readymade fixie irony direct trade iPhone keffiyeh. Fingerstache listicle DIY meh blog, try-hard four loko Helvetica keffiyeh single-origin coffee art party scenester polaroid tote bag dreamcatcher."
+   },
+   {
+      "tagid":"553",
+      "url":"http://www.comicsalliance.com/2012/01/17/dc-comics-logo-history/",
+      "added":"1326944768",
+      "private":"1",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"comics",
+            "tag":"humor",
+            "tag":"humor"
+         }
+      ],
+      "title":"The History of the DC Comic Logo, As Seen Through 70 Years of Internet Comments - ComicsAlliance | Comic book culture, news, humor, commentary, and reviews",
+      "text":"Ecosystem sales investor social media seed round. Ramen investor product management social proof MVP business-to-business handshake buyer seed round strategy customer. Monetization crowdfunding deployment. Channels paradigm shift user experience accelerator. Entrepreneur launch party business-to-consumer supply chain strategy user experience influencer customer bootstrapping pivot venture. Funding ecosystem direct mailing alpha vesting period customer ownership www.discoverartisans.com. Conversion traction virality."
+   },
+   {
+      "tagid":"554",
+      "url":"http://www.webresourcesdepot.com/making-ajax-applications-crawlable-by-google/",
+      "added":"1326944586",
+      "private":"0",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"tutorial",
+            "tag":"ajax"
+         }
+      ],
+      "title":"Making AJAX Applications Crawlable (By Google)",
+      "text":""
+   },
+   {
+      "tagid":"555",
+      "url":"http://www.boxesandarrows.com/view/storyboarding-ipad",
+      "added":"1326944513",
+      "private":"0",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"mobile",
+            "tag":"ux",
+            "tag":"transitions",
+            "tag":"storyboarding"
+         }
+      ],
+      "title":"Storyboarding iPad Transitions - Boxes and Arrows: The design behind the design",
+      "text":"The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens jump; dozy fowl quack. Quick wafting zephyrs vex bold Jim. Quick zephyrs blow, vexing daft Jim. Sex-charged fop blew my junk TV quiz. How quickly daft jumping zebras vex. Two driven jocks help fax my big quiz. Quick, Baz, get my woven flax jodhpurs!"
+   },
+   {
+      "tagid":"556",
+      "url":"http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/sass-and-compass-for-web-designers-introduction/",
+      "added":"1326944476",
+      "private":"1",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"code",
+            "tag":"css",
+            "tag":"tutorial"
+         }
+      ],
+      "title":"SASS and Compass for Web Designers: Introduction",
+      "text":""
+   },
+   {
+      "tagid":"557",
+      "url":"http://www.webresourcesdepot.com/28-high-quality-jquery-plugins-for-building-responsive-websites/",
+      "added":"1326944444",
+      "private":"1",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"webdesign",
+            "tag":"jquery",
+            "tag":"responsive"
+         }
+      ],
+      "title":"28 High-Quality jQuery Plugins For Building Responsive Websites",
+      "text":"Yr pickled hashtag, chia Helvetica leggings synth beard bicycle rights viral High Life four loko selvage. Thundercats pickled listicle iPhone hella, fap swag farm-to-table. Narwhal fap wayfarers crucifix, Truffaut artisan cardigan occupy authentic. Sustainable ugh street art, PBR&B cliche High Life bitters Portland slow-carb vegan kogi Carles pour-over XOXO 90's. Tote bag synth aesthetic, semiotics messenger bag wolf small batch jean shorts cray. Cray tattooed High Life, lo-fi twee crucifix irony. Next level ethical Tumblr, gastropub literally McSweeney's Thundercats American Apparel stumptown bitters pickled biodiesel."
+   },
+   {
+      "tagid":"558",
+      "url":"http://uxdesign.smashingmagazine.com/2009/05/23/optimizing-conversion-rates-less-effort-more-customers/",
+      "added":"1326944415",
+      "private":"0",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"ecommerce",
+            "tag":"webdesign",
+            "tag":"usability"
+         }
+      ],
+      "title":"Use Conversions To Generate More Conversions - Smashing UX Design | Smashing UX Design",
+      "text":"Metrics startup partner network funding investor ecosystem. Crowdfunding beta stealth learning curve social media vesting period MVP agile development. Responsive web design backing niche market. User experience www.discoverartisans.com founders angel investor learning curve focus stock leverage holy grail long tail first mover advantage funding low hanging fruit supply chain. Equity infrastructure www.discoverartisans.com ramen rockstar buzz venture iPhone product management infographic burn rate. Influencer pivot creative gamification gen-z backing client. Success backing alpha venture scrum project beta first mover advantage niche market graphical user interface funding incubator business model canvas. Investor partnership bandwidth conversion seed round. Conversion strategy MVP non-disclosure agreement. Interaction design www.discoverartisans.com technology disruptive low hanging fruit buyer responsive web design business-to-consumer success."
+   },
+   {
+      "tagid":"559",
+      "url":"http://uxdesign.smashingmagazine.com/2012/01/10/it-works-for-you-a-user-centric-guideline-to-product-pages/",
+      "added":"1326944391",
+      "private":"0",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"usability",
+            "tag":"webdesign",
+            "tag":"ecommerce"
+         }
+      ],
+      "title":"It Works For 'You': A User-Centric Guideline To Product Pages - Smashing UX Design | Smashing UX Design",
+      "text":"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. "
+   },
+   {
+      "tagid":"560",
+      "url":"http://uxdesign.smashingmagazine.com/2009/05/15/optimizing-conversion-rates-its-all-about-usability/",
+      "added":"1326944374",
+      "private":"0",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"1",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"usability",
+            "tag":"ecommerce",
+            "tag":"webdesign"
+         }
+      ],
+      "title":"Optimizing Conversion Rates: It's All About Usability - Smashing UX Design | Smashing UX Design",
+      "text":""
+   },
+   {
+      "tagid":"561",
+      "url":"http://www.netmagazine.com/features/developer-s-guide-html5-apis",
+      "added":"1326944304",
+      "private":"1",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"1",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"webapps",
+            "tag":"reference",
+            "tag":"html5"
+         }
+      ],
+      "title":"The developer’s guide to the HTML5 APIs",
+      "text":"Meditation single-origin coffee butcher next level plaid. Occupy jean shorts quinoa, seitan taxidermy chambray cred meh mumblecore bicycle rights shabby chic. Pinterest stumptown keytar chia Echo Park 90's, asymmetrical Helvetica food truck Blue Bottle art party forage Vice meditation. Food truck Austin polaroid church-key, normcore listicle paleo heirloom Williamsburg distillery hoodie. Mixtape roof party Vice squid kitsch trust fund. IPhone meditation polaroid street art leggings American Apparel, next level fanny pack four dollar toast. High Life bicycle rights heirloom flannel."
+   },
+   {
+      "tagid":"562",
+      "url":"http://wp.smashingmagazine.com/2012/01/04/create-custom-taxonomies-wordpress/",
+      "added":"1326944278",
+      "private":"1",
+      "favorite":"1",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"tutorial",
+            "tag":"taxonomy",
+            "tag":"wordpress"
+         }
+      ],
+      "title":"How To Create Custom Taxonomies In WordPress - Smashing WordPress | Smashing WordPress",
+      "text":""
+   },
+   {
+      "tagid":"563",
+      "url":"http://www.netmagazine.com/tutorials/getting-started-html5-geolocation?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+net%2Ftopstories+%28.net+%29",
+      "added":"1326944256",
+      "private":"0",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"webdev",
+            "tag":"webapps",
+            "tag":"geolocation"
+         }
+      ],
+      "title":"Getting started with HTML5 geolocation",
+      "text":"Pork belly kogi banh mi craft beer, tilde distillery chillwave actually gentrify mustache McSweeney's fap Echo Park vinyl meggings. Food truck selfies flexitarian blog, ugh mlkshk readymade. Pitchfork four dollar toast disrupt, food truck 8-bit mixtape gluten-free deep v PBR&B 3 wolf moon swag Blue Bottle."
+   },
+   {
+      "tagid":"564",
+      "url":"http://coding.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/",
+      "added":"1326944215",
+      "private":"0",
+      "favorite":"0",
+      "wip":"1",
+      "nsfw":"1",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"code",
+            "tag":"webdesign",
+            "tag":"oop",
+            "tag":"css"
+         }
+      ],
+      "title":"An Introduction To Object Oriented CSS (OOCSS) - Smashing Coding | Smashing Coding",
+      "text":""
+   },
+   {
+      "tagid":"565",
+      "url":"http://www.webdesignerdepot.com/2011/12/15-productivity-tools-to-play-with/",
+      "added":"1326944179",
+      "private":"0",
+      "favorite":"0",
+      "wip":"1",
+      "nsfw":"1",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"resources",
+            "tag":"tools",
+            "tag":"productivity"
+         }
+      ],
+      "title":"15 productivity tools to play with | Webdesigner Depot",
+      "text":"Brownie topping sesame snaps tart oat cake cake cotton candy tootsie roll gingerbread. Oat cake tart jelly beans chocolate cake lollipop bonbon. Gummi bears jujubes chocolate bar croissant halvah cotton candy chocolate cake carrot cake. Gummies jelly-o biscuit sweet bear claw candy canes candy canes cheesecake. Fruitcake cotton candy chupa chups. Liquorice bonbon tart bonbon."
+   },
+   {
+      "tagid":"566",
+      "url":"http://www.impressivewebs.com/skills-front-end-developers/",
+      "added":"1326944147",
+      "private":"1",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"UI",
+            "tag":"code",
+            "tag":"skills"
+         }
+      ],
+      "title":"Skills for Front-End Developers | Impressive Webs",
+      "text":"Blue Bottle Williamsburg lo-fi polaroid Truffaut. Retro deep v High Life, yr Intelligentsia aesthetic squid gentrify Echo Park. Stumptown actually Helvetica, leggings sustainable vinyl church-key farm-to-table +1 jean shorts sartorial Truffaut literally. Normcore sartorial XOXO, kogi direct trade Thundercats stumptown beard gentrify pickled."
+   },
+   {
+      "tagid":"567",
+      "url":"http://www.alibony.com/pse/031508postcard.html",
+      "added":"1326944118",
+      "private":"0",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"tutorial",
+            "tag":"vintage",
+            "tag":"photoshop"
+         }
+      ],
+      "title":"Photoshop Elements: Photochrom Vintage Postcard",
+      "text":""
+   },
+   {
+      "tagid":"568",
+      "url":"http://inhabitat.com/125-haus-is-utah’s-most-energy-efficient-and-cost-effective-single-family-house/",
+      "added":"1326944080",
+      "private":"1",
+      "favorite":"0",
+      "wip":"1",
+      "nsfw":"1",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"energy-efficient",
+            "tag":"architecture",
+            "tag":"architecture"
+         }
+      ],
+      "title":"PHOTOS: 125 Haus is Utah’s Most Energy Efficient and Cost Effective Single Family House | Inhabitat - Green Design Will Save the World",
+      "text":"Chocolate bar cheesecake oat cake gummies. Jelly-o jelly beans apple pie biscuit. Macaroon chocolate bar bonbon pastry gummi bears carrot cake brownie. Croissant cheesecake marshmallow danish tart oat cake marzipan cake cotton candy. Cupcake tiramisu sesame snaps cookie candy canes. Dessert caramels gummies oat cake tart. Jelly macaroon jujubes topping marshmallow."
+   },
+   {
+      "tagid":"569",
+      "url":"http://www.themarysue.com/for-they-are-weary-of-space-marines-why-some-men-are-playing-women-and-why-game-developers-should-take-note/2/",
+      "added":"1326943930",
+      "private":"0",
+      "favorite":"1",
+      "wip":"1",
+      "nsfw":"0",
+      "tbr":"1",
+      "tags":[
+         {
+            "tag":"pop culture",
+            "tag":"gender"
+         }
+      ],
+      "title":"For They Are Weary of Space Marines: Why Some Men Are Playing Women, and Why Game Developers Should Take Note | The Mary Sue",
+      "text":"Yr pickled hashtag, chia Helvetica leggings synth beard bicycle rights viral High Life four loko selvage. Thundercats pickled listicle iPhone hella, fap swag farm-to-table. Narwhal fap wayfarers crucifix, Truffaut artisan cardigan occupy authentic. Sustainable ugh street art, PBR&B cliche High Life bitters Portland slow-carb vegan kogi Carles pour-over XOXO 90's. Tote bag synth aesthetic, semiotics messenger bag wolf small batch jean shorts cray. Cray tattooed High Life, lo-fi twee crucifix irony. Next level ethical Tumblr, gastropub literally McSweeney's Thundercats American Apparel stumptown bitters pickled biodiesel."
+   },
+   {
+      "tagid":"570",
+      "url":"http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/get-into-less-the-programmable-stylesheet-language/",
+      "added":"1326943721",
+      "private":"0",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "tags":[
+         {
+            "tag":"css",
+            "tag":"webdev",
+            "tag":"code",
+            "tag":"less"
+         }
+      ],
+      "title":"Get Into LESS: the Programmable Stylesheet Language",
+      "text":"Blog crucifix street art, kale chips chambray 90's literally iPhone. Jean shorts meh fixie twee cornhole. Wes Anderson lomo cold-pressed, beard McSweeney's bicycle rights pop-up. Leggings cornhole Brooklyn, cardigan food truck synth skateboard dreamcatcher migas pop-up wayfarers Austin hella Vice. Banh mi letterpress health goth American Apparel vinyl artisan selvage. Wes Anderson selfies wayfarers, readymade fixie irony direct trade iPhone keffiyeh. Fingerstache listicle DIY meh blog, try-hard four loko Helvetica keffiyeh single-origin coffee art party scenester polaroid tote bag dreamcatcher."
+   }
+]
