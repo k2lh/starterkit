@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" ng-app="inquisio" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" ng-app="inquisio" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" ng-app="inquisio" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" ng-app="inquisio" class="no-js"> <!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Inquisio</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,600,400' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/bootstrap.css">
+
+    <!-- GENERIC FILES VIA BOWER -->
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+    <script src="bower_components/angular-touch/angular-touch.js"></script>
+    <script src="bower_components/angular-animate/angular-animate.js"></script>
+    <script src="bower_components/angular-bootstrap/ui-bootstrap-tpls.js"></script>
+    <script src="bower_components/angular-bootstrap/ui-bootstrap.js"></script>
+
+    <!-- APP-WIDE SETUP FILES -->
+    <script src="module.js"></script>
+    <script src="routes.js"></script>
+
+    <!-- COMMON SERVICES/FACTORIES -->
+    <script src="shared/userFactory.js"></script>
+
+    <!-- MODULE CONTROLLERS -->
+    <script src="viewA/viewAController.js"></script>
+    <script src="viewB/viewBController.js"></script>
+
+
+
+</head>
+<body>
+
+<ul class="menu">
+    <li><a href="#/viewA">viewA</a></li>
+    <li><a href="#/viewB">viewB</a></li>
+</ul>
+
+<div ng-view></div>
+
+</body>
+</html>
