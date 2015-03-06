@@ -16,12 +16,25 @@ Everything is already set up for you. Just run:
 npm install
 ```
 
-This will kick off bower and get all the dependencies set up. Once that's done, install a node server. 
+That may take a minute or two. When that's done, run:
+
+```
+bower install
+```
+
+This will kick off bower and get all the dependencies set up. Once that's done, install a node server. Do it globally, and then you won't have to do it again. 
 
 ```
 npm install -g serve
 cd starterkit/app
 serve
+```
+
+Now the server is running, and you can see the site at localhost:3000/app/. Next, open a second tab in your terminal/console, to fire up gulp to watch & compile your less files. 
+
+```
+cd starterkit
+gulp watch
 ```
 
 ### More coming...
