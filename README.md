@@ -4,7 +4,11 @@ This is based on the angular-seed app, with some variations: it's using gulp to 
 
 ### Prerequisites
 
-Install node.js and npm. 
+Install node.js and npm. If you don't already have gulp, install it, too.
+
+```
+npm install -g gulp
+```
 
 Clone the repo. 
 
