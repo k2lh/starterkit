@@ -37,17 +37,16 @@
 </head>
 <body ng-controller="mainController">
     <div class="container-fluid">
-        <div class="col-md-4 col-sm-4">
-            <select class="form-control" ng-model="alias" ng-options="user.username for user in users" ng-change="userChange(user)"></select>
-        </div>
-        <div class="col-md-4 col-sm-4">
-
-        </div>
-        <div class="col-md-2 col-sm-2">
-            <a class="btn btn-default btn-pop pull-right" href="#/viewA">viewA</a>
-        </div>
-        <div class="col-md-2 col-sm-2">
-            <a class="btn btn-default btn-pop pull-right"  href="#/viewB">viewB</a>
+        <div class="row">
+            <div class="col-md-8 col-sm-8 col-xs-6">
+                <select class="form-control" ng-model="alias" ng-options="user.username for user in users" ng-change="userChange(user)"></select>
+            </div>
+            <div class="col-md-2 col-sm-2 col-xs-3">
+                <a class="btn btn-default btn-pop pull-right" href="#/viewA">viewA</a>
+            </div>
+            <div class="col-md-2 col-sm-2 col-xs-3">
+                <a class="btn btn-default btn-pop pull-right"  href="#/viewB">viewB</a>
+            </div>
         </div>
     </div>
 
