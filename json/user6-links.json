@@ -1,5 +1,47 @@
 [
-       {
+   {
+      "tagid":"358",
+      "url":"http://www.cpamedia.com/trade-routes/tea-horse-road-historical-perspective/",
+      "added":"1338865187",
+      "private":"0",
+      "favorite":"1",
+      "wip":"1",
+      "nsfw":"0",
+      "tbr":"0",
+      "total":"991",
+      "tags":[
+         {
+            "tag":"trade",
+            "tag":"history",
+            "tag":"tibet",
+            "tag":"china",
+            "tag":"land & sea trade"
+         }
+      ],
+      "title":"Trade Routes: China's 'Ancient Tea-Horse Road' in Historical Perspective",
+      "text":"Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI."
+   },
+   {
+      "tagid":"359",
+      "url":"http://www.silk-road.com/artl/silkhistory.shtml",
+      "added":"1338865128",
+      "private":"0",
+      "favorite":"0",
+      "wip":"0",
+      "nsfw":"0",
+      "tbr":"0",
+      "total":"554",
+      "tags":[
+         {
+            "tag":"history",
+            "tag":"silk",
+            "tag":"china"
+         }
+      ],
+      "title":"History of Silk",
+      "text":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+   },
+   {
       "tagid":"360",
       "url":"http://mobile.smashingmagazine.com/2012/06/01/getting-to-know-android/",
       "added":"1338865043",
@@ -8,6 +50,7 @@
       "wip":"1",
       "nsfw":"1",
       "tbr":"0",
+      "total":"85",
       "tags":[
          {
             "tag":"webapps",
@@ -16,7 +59,7 @@
          }
       ],
       "title":"Getting To Know The Android Platform: Building, Testing And Distributing Apps",
-      "text":"Chocolate bar cheesecake oat cake gummies. Jelly-o jelly beans apple pie biscuit. Macaroon chocolate bar bonbon pastry gummi bears carrot cake brownie. Croissant cheesecake marshmallow danish tart oat cake marzipan cake cotton candy. Cupcake tiramisu sesame snaps cookie candy canes. Dessert caramels gummies oat cake tart. Jelly macaroon jujubes topping marshmallow."
+      "text":"Ha uno subjecto traducite, regula europee simplificate sed il. Europa summarios registrate pro le. Un servi message instruction con, ma major philologos sia. Se web tres latente. Nos da populos flexione, super subjecto interlinguistica duo un, per al tote secundarimente. Scriber philologos da con, gymnasios encyclopedia secundarimente web se, debe summario o uso. Que se libro grammatica conferentias."
    },
    {
       "tagid":"361",
@@ -27,6 +70,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"1",
+      "total":"88",
       "tags":[
          {
             "tag":"performance",
@@ -36,7 +80,7 @@
          }
       ],
       "title":"How to speed up your website",
-      "text":"Blue Bottle Williamsburg lo-fi polaroid Truffaut. Retro deep v High Life, yr Intelligentsia aesthetic squid gentrify Echo Park. Stumptown actually Helvetica, leggings sustainable vinyl church-key farm-to-table +1 jean shorts sartorial Truffaut literally. Normcore sartorial XOXO, kogi direct trade Thundercats stumptown beard gentrify pickled."
+      "text":"Có rất nhiều biến thể của Lorem Ipsum mà bạn có thể tìm thấy, nhưng đa số được biến đổi bằng cách thêm các yếu tố hài hước, các từ ngẫu nhiên có khi không có vẻ gì là có ý nghĩa. Nếu bạn định sử dụng một đoạn Lorem Ipsum, bạn nên kiểm tra kĩ để chắn chắn là không có gì nhạy cảm được giấu ở giữa đoạn văn bản."
    },
    {
       "tagid":"362",
@@ -47,6 +91,7 @@
       "wip":"0",
       "nsfw":"1",
       "tbr":"1",
+      "total":"60",
       "tags":[
          {
             "tag":"webdesign",
@@ -54,7 +99,7 @@
          }
       ],
       "title":"The 10 Laws for Successful Mobile Ecommerce Websites",
-      "text":""
+      "text":" Chambray kitsch photo booth +1 food truck gluten-free church-key ugh, drinking vinegar locavore crucifix quinoa four dollar toast Blue Bottle Etsy. Tumblr fixie stumptown put a bird on it taxidermy."
    },
    {
       "tagid":"363",
@@ -65,6 +110,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"1",
+      "total":"1846",
       "tags":[
          {
             "tag":"jquery",
@@ -73,7 +119,7 @@
          }
       ],
       "title":"Parallax Scrolling and Its Usage in Web Design",
-      "text":"Social proof bootstrapping infographic first mover advantage www.discoverartisans.com long tail founders client leverage branding. Infographic iteration long tail rockstar angel investor burn rate hackathon."
+      "text":"Give attitude hopped up on goofballs behind the couch run in circles. Give attitude all of a sudden go crazy. Nap all day leave dead animals as gifts, so hunt anything that moves, so intently sniff hand. Behind the couch. Burrow under covers find something else more interesting and rub face on everything. Find something else more interesting intrigued by the shower. Give attitude behind the couch. Throwup on your pillow inspect anything brought into the house so intently sniff hand yet attack feet yet missing until dinner time. Swat at dog."
    },
    {
       "tagid":"364",
@@ -84,6 +130,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"952",
       "tags":[
          {
             "tag":"usability",
@@ -91,7 +138,7 @@
          }
       ],
       "title":"Enhancing Your eCommerce Site’s Credibility 1",
-      "text":""
+      "text":"Toffee bear claw cotton candy gummi bears marshmallow gummi bears pudding sugar plum. Gummies pastry jelly-o dragée sesame snaps tart cake chocolate cake. Gummi bears oat cake gummi bears. Dessert muffin sesame snaps lemon drops. Lollipop oat cake powder cake cotton candy liquorice bear claw. Chocolate lollipop danish cake cake topping chupa chups. Cheesecake caramels ice cream fruitcake halvah donut icing. Halvah topping halvah marshmallow. Croissant dragée marzipan lemon drops sweet chocolate cake cookie chupa chups carrot cake. Chocolate bar candy canes cupcake. Jelly beans bonbon cake. Sweet soufflé danish pudding soufflé. Bonbon fruitcake sweet roll tootsie roll ice cream wafer apple pie dragée carrot cake."
    },
    {
       "tagid":"365",
@@ -102,6 +149,7 @@
       "wip":"0",
       "nsfw":"1",
       "tbr":"0",
+      "total":"148",
       "tags":[
          {
             "tag":"mobile",
@@ -110,7 +158,7 @@
          }
       ],
       "title":"Device-Agnostic Approach To Responsive Web Design",
-      "text":"Ecosystem sales investor social media seed round. Ramen investor product management social proof MVP business-to-business handshake buyer seed round strategy customer. Monetization crowdfunding deployment. Channels paradigm shift user experience accelerator. Entrepreneur launch party business-to-consumer supply chain strategy user experience influencer customer bootstrapping pivot venture. Funding ecosystem direct mailing alpha vesting period customer ownership www.discoverartisans.com. Conversion traction virality."
+      "text":"telo kepeken mun vi. moli akesi kepeken ali e, pi kala kule pini anu. olin taso jan vt. kute insa kulupu a sep, oth en kule nasa pilin. anu tu pona lawa sijelo. vi lupa weka wan, suli awen nanpa o tan. sep toki mije sitelen ma, len vt suli sike."
    },
    {
       "tagid":"366",
@@ -121,6 +169,7 @@
       "wip":"0",
       "nsfw":"1",
       "tbr":"0",
+      "total":"1215",
       "tags":[
          {
             "tag":"webdesign",
@@ -128,7 +177,7 @@
          }
       ],
       "title":"UX Testing and Cultural Preferences",
-      "text":""
+      "text":"Det finns många olika varianter av Lorem Ipsum, men majoriteten av dessa har ändrats på någotvis. Antingen med inslag av humor, eller med inlägg av ord som knappast ser trovärdiga ut. Skall man använda långa stycken av Lorem Ipsum bör man försäkra sig om att det inte gömmer sig något pinsamt mitt i texten. Lorem Ipsum-generatorer på internet tenderar att repetera Lorem Ipsum-texten styckvis efter behov, något som gör denna sidan till den första riktiga Lorem Ipsum-generatorn på internet."
    },
    {
       "tagid":"367",
@@ -139,6 +188,7 @@
       "wip":"0",
       "nsfw":"1",
       "tbr":"0",
+      "total":"744",
       "tags":[
          {
             "tag":"tooltip",
@@ -147,7 +197,7 @@
          }
       ],
       "title":"An Advanced jQuery Tooltip Plugin – qTip2",
-      "text":"Jaa tai ota sanoa ilkea kai jalat jolle pieni. Asiakseen tehnytkin viinojaan en ne ai. Paaltapain uteliaasti kuitenkaan mennessaan jos loi tuommoisen. Ero yha eri puoli menen korsu ennen kalle. Loytaisi huulilla ja en kallella kaivanut moittiva ne. Iso itseanne ela silmassa isa maailman eli kuuluvat. Ja aissaan se et hanelle hyvasti. Kai nuottikota suomuakaan humalaiset tarkastaen tai rukoiltiin. Kysyi hanna ensin ei tanne ja tassa te me."
+      "text":"In fallible when on so gawked far clumsy indiscriminate barring much locked unthinking far since vulgar and in checked obedient and secretly less wedded neutrally husky that some after this visual squirrel negatively much the incessantly grabbed much ready wherever because on opposite hippopotamus in one above providently led grumbled when far or ouch far therefore jadedly less that scorpion until this bewitchingly far clenched oh less near grizzly chose slavish gosh ready hardheadedly fashionably a imitative unexpectedly some the various unexplainably one spoon-fed up bald chameleon sensitive some groomed before during various one ouch touched the."
    },
    {
       "tagid":"368",
@@ -158,6 +208,7 @@
       "wip":"1",
       "nsfw":"0",
       "tbr":"1",
+      "total":"286",
       "tags":[
          {
             "tag":"webdev",
@@ -166,7 +217,7 @@
          }
       ],
       "title":"Flash-centric misconceptions of HTML5 | Webdesigner Depot",
-      "text":"Shade valuable stitching bold trendwatching sportswear glitter trend photography catwalk. Comfortable industry fashion bows halter jumper. Hand-made model sewing replicate measurement handbag tailor identity jewelry impeccable stock necessity. Prediction unique sari zipper sportswear contemporary Haute-couture xl garment taste independant clothing pret-a-porter quantity."
+      "text":"Ada banyak variasi tulisan Lorem Ipsum yang tersedia, tapi kebanyakan sudah mengalami perubahan bentuk, entah karena unsur humor atau kalimat yang diacak hingga nampak sangat tidak masuk akal. Jika anda ingin menggunakan tulisan Lorem Ipsum, anda harus yakin tidak ada bagian yang memalukan yang tersembunyi di tengah naskah tersebut. Semua generator Lorem Ipsum di internet cenderung untuk mengulang bagian-bagian tertentu."
    },
    {
       "tagid":"369",
@@ -177,6 +228,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"1086",
       "tags":[
          {
             "tag":"ux",
@@ -185,7 +237,7 @@
          }
       ],
       "title":"Usability Resources to Win Arguments",
-      "text":"Yr pickled hashtag, chia Helvetica leggings synth beard bicycle rights viral High Life four loko selvage. Thundercats pickled listicle iPhone hella, fap swag farm-to-table. Narwhal fap wayfarers crucifix, Truffaut artisan cardigan occupy authentic. Sustainable ugh street art, PBR&B cliche High Life bitters Portland slow-carb vegan kogi Carles pour-over XOXO 90's. Tote bag synth aesthetic, semiotics messenger bag wolf small batch jean shorts cray. Cray tattooed High Life, lo-fi twee crucifix irony. Next level ethical Tumblr, gastropub literally McSweeney's Thundercats American Apparel stumptown bitters pickled biodiesel."
+      "text":"This app does everything you could possibly want it to do and not only that, it is beautifully designed and extremely intuitive to use. Download it from the App Store for FREE if you don’t mind some adverts popping up or if you prefer an ad-free experience then you can down load the ad-free version for 99p."
    },
    {
       "tagid":"370",
@@ -196,6 +248,7 @@
       "wip":"0",
       "nsfw":"1",
       "tbr":"0",
+      "total":"992",
       "tags":[
          {
             "tag":"language",
@@ -203,7 +256,7 @@
          }
       ],
       "title":"8 tips for learning Mandarin Chinese",
-      "text":""
+      "text":"Uno dei fatti piu notevoli al principio del decimosesto secolo e senza dubbio l'apparire della cortigiana; figura degna di considerazione e di esame non ebbe pur anco uno storico che di lei si occupasse scrupolosamente e gelosamente, e, diseppellendo dalle biblioteche ed archivii i numerosi documenti che la riguardano, dasse compiuta questa pagina di storia che non e tra le ultime del nostro rinascimento. "
    },
    {
       "tagid":"371",
@@ -214,6 +267,7 @@
       "wip":"0",
       "nsfw":"1",
       "tbr":"0",
+      "total":"1270",
       "tags":[
          {
             "tag":"research",
@@ -221,7 +275,7 @@
          }
       ],
       "title":"The 10 Things Economics Can Tell Us About Happiness",
-      "text":"Tentativa habituara conformar embutidos conquista dou que paz por. Mas ama censura conheco sei sorriso vem infimos. Sublime tem examina dizendo mau arranja minutos osculou dar luz. Falta vedes noite feras bom mudos parar ate. Pensam ir trouxe lindos inigma fallar quadro do. Desdemnao rir obedecido incommodo adquirido lamuriava pao confessas. Noticia jorgeos sombrio la familia ii repetir aspecto."
+      "text":"We take steps towards tirelessly embracing our partnerships as the first step in our scheme to energetically extend our infomediaries as a component of our plan to meet the wants of our valued customers."
    },
    {
       "tagid":"372",
@@ -232,6 +286,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"580",
       "tags":[
          {
             "tag":"feminism",
@@ -241,7 +296,7 @@
          }
       ],
       "title":"Can Turkey Make Its Mosques Feminist?",
-      "text":"Skateboard High Life fap bicycle rights Bushwick. Stumptown distillery Carles church-key cliche. Beard VHS XOXO tilde, fashion axe sriracha trust fund swag 3 wolf moon Truffaut church-key High Life. Squid health goth iPhone, asymmetrical four loko 90's keytar art party food truck farm-to-table umami. Photo booth +1 meggings, Godard listicle bicycle rights lomo distillery. Stumptown Thundercats blog, farm-to-table leggings cliche Etsy narwhal irony. Direct trade tote bag hashtag, farm-to-table pour-over DIY bespoke food truck banjo."
+      "text":"Lumbersexual forage cliche pickled stumptown. Deep v heirloom jean shorts VHS migas, +1 messenger bag Marfa authentic slow-carb Blue Bottle XOXO tousled. Pinterest Odd Future High Life kale chips gastropub, Carles dreamcatcher. Single-origin coffee chillwave taxidermy Kickstarter ennui Banksy selfies. McSweeney's beard before they sold out slow-carb put a bird on it fanny pack, DIY lumbersexual trust fund."
    },
    {
       "tagid":"373",
@@ -252,6 +307,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"812",
       "tags":[
          {
             "tag":"usa",
@@ -260,7 +316,7 @@
          }
       ],
       "title":"Clash of Civilizations: The Confusion of Being a Chinese Student in America - The Atlantic",
-      "text":"Fashion axe post-ironic Tumblr normcore salvia. Four dollar toast Etsy pickled, drinking vinegar chia butcher DIY XOXO flexitarian fap craft beer lomo raw denim twee. Gentrify tousled plaid pickled, raw denim YOLO tilde flannel beard DIY selvage tofu health goth. Tousled flannel butcher bespoke, ennui salvia put a bird on it. Slow-carb keytar Pinterest literally."
+      "text":"Financial experts are worried about Spearheadage.Com, which is not only in financial trouble but has been acting very erratically lately. Instead of laying off employees that they don't need, they've increased their workforce by 46% even though in a few months they'll start bouncing payroll checks. According to some, the company is doomed because it built a website with gratuitious Flash, JavaScript, and ActiveX features that irritated everyone. So what gives?"
    },
    {
       "tagid":"374",
@@ -271,6 +327,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"1",
+      "total":"1916",
       "tags":[
          {
             "tag":"history",
@@ -278,7 +335,7 @@
          }
       ],
       "title":"Le So Dynasty (1428-1527)",
-      "text":""
+      "text":"De alli salieron martes, a las nueve y media de la manana, y con distar Montevideo solas cincuenta leguas de Buenos Aires, no pudieron tomar su puerto hasta el lunes 13, que a las once y media del dia dieron fondo en medio de su ensenada. Alli, entre la gente de aquel presidio, se eligieron los veinte y cinco soldados, que se habian de embarcar, a cargo del alferez D. Salvador Martin de Olmo: porque, aunque deseaba el Senor Gobernador de Buenos Aires, que fuese mayor el numero de los soldados, y habia otros muchos que."
    },
    {
       "tagid":"375",
@@ -289,6 +346,7 @@
       "wip":"1",
       "nsfw":"0",
       "tbr":"0",
+      "total":"668",
       "tags":[
          {
             "tag":"monarchy",
@@ -297,7 +355,7 @@
          }
       ],
       "title":"Emperor Kien Phuc of Viet Nam",
-      "text":"Luxurious make up collection. Pastel urban tailor contemporary high heels casual clothing expensive. Waistline shape conformity allure stock old-fashioned signature leotard fashion accessory. Craftmanship sportswear couture stitching attractive old-fashioned hair petticoat quality hippie zipper."
+      "text":"Epsum factorial non deposit quid pro quo hic escorol. Olypian quarrels et gorilla congolium sic ad nauseum. Souvlaki ignitus carborundum e pluribus unum. Defacto lingo est igpay atinlay. Marquee selectus non provisio incongruous feline nolo contendre. Gratuitous octopus niacin, sodium glutimate. Quote meon an estimate et non interruptus stadium.  Sic tempus fugit esperanto hiccup estrogen. Glorious baklava ex librus hup hey ad infinitum. Non sequitur condominium facile et geranium incognito. Epsum factorial non deposit quid pro quo hic escorol. Marquee selectus non provisio incongruous feline nolo contendre Olypian quarrels et gorilla congolium sic ad nauseum. Souvlaki ignitus carborundum e pluribus unum.  "
    },
    {
       "tagid":"376",
@@ -308,6 +366,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"669",
       "tags":[
          {
             "tag":"film",
@@ -316,7 +375,7 @@
          }
       ],
       "title":"Top 10 Wuxia Movies",
-      "text":"Pork belly kogi banh mi craft beer, tilde distillery chillwave actually gentrify mustache McSweeney's fap Echo Park vinyl meggings. Food truck selfies flexitarian blog, ugh mlkshk readymade. Pitchfork four dollar toast disrupt, food truck 8-bit mixtape gluten-free deep v PBR&B 3 wolf moon swag Blue Bottle."
+      "text":"Most of our clients use our Data Analysis service to inform their strategic decision making and their targets for the immediate, mid-term and long-term future. The data sources that we use for this type of analysis include customer enquiry data, sales figures, costs, market data and customer feedback."
    },
    {
       "tagid":"377",
@@ -327,6 +386,7 @@
       "wip":"1",
       "nsfw":"0",
       "tbr":"0",
+      "total":"311",
       "tags":[
          {
             "tag":"history",
@@ -336,7 +396,7 @@
          }
       ],
       "title":"Wuxia Pian",
-      "text":""
+      "text":"Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI."
    },
    {
       "tagid":"378",
@@ -347,6 +407,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"1238",
       "tags":[
          {
             "tag":"culture",
@@ -356,7 +417,7 @@
          }
       ],
       "title":"An Introduction to the Wuxia Genre",
-      "text":"Bezocht der zou stroeve ver smelter moderne het sommige. Al in welks hevea dagen geldt. Chinees op beperkt ik af ontdaan. Grooter valorem te gropeng af. Jaarlijks moerassen wat oog federatie dal. Gesteld in tijgers daarbij bestaat opening ik en. Getracht gewonnen aan rug wasschen inwoners lot had."
+      "text":"Schlitz single-origin coffee forage swag, photo booth selfies disrupt banjo bitters. Paleo keytar bicycle rights, cliche skateboard plaid Vice post-ironic shabby chic church-key. Cornhole viral artisan Echo Park Carles. Cray bitters hella mustache direct trade, Marfa pork belly pickled distillery food truck Pitchfork Williamsburg McSweeney's plaid. Lumbersexual vinyl flexitarian umami asymmetrical. Sriracha small batch Neutra street art polaroid lomo biodiesel. Leggings four loko dreamcatcher twee master cleanse pour-over."
    },
    {
       "tagid":"379",
@@ -367,6 +428,7 @@
       "wip":"1",
       "nsfw":"0",
       "tbr":"0",
+      "total":"1712",
       "tags":[
          {
             "tag":"driveability",
@@ -376,7 +438,7 @@
          }
       ],
       "title":"Why rear-wheel drive is coming back.",
-      "text":"Aesthetic hashtag skateboard, Intelligentsia flexitarian tousled ennui locavore synth before they sold out mumblecore deep v Austin next level. Asymmetrical health goth chia, church-key flannel hoodie sriracha cold-pressed PBR lumbersexual 90's. Small batch mumblecore ennui sriracha chambray heirloom, craft beer McSweeney's biodiesel master cleanse tilde chillwave pop-up hella jean shorts. Wayfarers DIY single-origin coffee iPhone, chambray Williamsburg semiotics. Etsy beard migas, wolf occupy four dollar toast pug scenester crucifix DIY 8-bit iPhone farm-to-table. Meggings keytar pug, biodiesel bespoke asymmetrical Austin 8-bit small batch synth whatever. 90's VHS Portland, Truffaut small batch pug scenester hoodie pickled."
+      "text":"Ha uno subjecto traducite, regula europee simplificate sed il. Europa summarios registrate pro le. Un servi message instruction con, ma major philologos sia. Se web tres latente. Nos da populos flexione, super subjecto interlinguistica duo un, per al tote secundarimente. Scriber philologos da con, gymnasios encyclopedia secundarimente web se, debe summario o uso. Que se libro grammatica conferentias."
    },
    {
       "tagid":"380",
@@ -387,6 +449,7 @@
       "wip":"0",
       "nsfw":"1",
       "tbr":"0",
+      "total":"1285",
       "tags":[
          {
             "tag":"driveability",
@@ -396,7 +459,7 @@
          }
       ],
       "title":"Rear Wheel vs. Front Wheel vs. All-Wheel Drive",
-      "text":"Blog crucifix street art, kale chips chambray 90's literally iPhone. Jean shorts meh fixie twee cornhole. Wes Anderson lomo cold-pressed, beard McSweeney's bicycle rights pop-up. Leggings cornhole Brooklyn, cardigan food truck synth skateboard dreamcatcher migas pop-up wayfarers Austin hella Vice. Banh mi letterpress health goth American Apparel vinyl artisan selvage. Wes Anderson selfies wayfarers, readymade fixie irony direct trade iPhone keffiyeh. Fingerstache listicle DIY meh blog, try-hard four loko Helvetica keffiyeh single-origin coffee art party scenester polaroid tote bag dreamcatcher."
+      "text":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
    },
    {
       "tagid":"381",
@@ -407,6 +470,7 @@
       "wip":"0",
       "nsfw":"1",
       "tbr":"0",
+      "total":"1370",
       "tags":[
          {
             "tag":"history",
@@ -414,7 +478,7 @@
          }
       ],
       "title":"Chronology of Asian maritime history",
-      "text":""
+      "text":"Der er mange tilgængelige udgaver af Lorem Ipsum, men de fleste udgaver har gennemgået forandringer, når nogen har tilføjet humor eller tilfældige ord, som på ingen måde ser ægte ud. Hvis du skal bruge en udgave af Lorem Ipsum, skal du sikre dig, at der ikke indgår noget pinligt midt i teksten."
    },
    {
       "tagid":"382",
@@ -425,6 +489,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"1071",
       "tags":[
          {
             "tag":"essay",
@@ -432,7 +497,7 @@
          }
       ],
       "title":"A retrospective at PFA shows why Disney has a thing or two to (re)learn from Japanese animation kings Miyazaki and Takahata",
-      "text":"Brownie topping sesame snaps tart oat cake cake cotton candy tootsie roll gingerbread. Oat cake tart jelly beans chocolate cake lollipop bonbon. Gummi bears jujubes chocolate bar croissant halvah cotton candy chocolate cake carrot cake. Gummies jelly-o biscuit sweet bear claw candy canes candy canes cheesecake. Fruitcake cotton candy chupa chups. Liquorice bonbon tart bonbon."
+      "text":"Epsum factorial non deposit quid pro quo hic escorol. Olypian quarrels et gorilla congolium sic ad nauseum. Souvlaki ignitus carborundum e pluribus unum. Defacto lingo est igpay atinlay. Marquee selectus non provisio incongruous feline nolo contendre. Gratuitous octopus niacin, sodium glutimate. Quote meon an estimate et non interruptus stadium.  Sic tempus fugit esperanto hiccup estrogen. Glorious baklava ex librus hup hey ad infinitum. Non sequitur condominium facile et geranium incognito. Epsum factorial non deposit quid pro quo hic escorol. Marquee selectus non provisio incongruous feline nolo contendre Olypian quarrels et gorilla congolium sic ad nauseum. Souvlaki ignitus carborundum e pluribus unum.  "
    },
    {
       "tagid":"383",
@@ -443,6 +508,7 @@
       "wip":"1",
       "nsfw":"0",
       "tbr":"0",
+      "total":"1565",
       "tags":[
          {
             "tag":"translation",
@@ -452,7 +518,7 @@
          }
       ],
       "title":"Lost in Translation: Japanese to English",
-      "text":"Blue Bottle Williamsburg lo-fi polaroid Truffaut. Retro deep v High Life, yr Intelligentsia aesthetic squid gentrify Echo Park. Stumptown actually Helvetica, leggings sustainable vinyl church-key farm-to-table +1 jean shorts sartorial Truffaut literally. Normcore sartorial XOXO, kogi direct trade Thundercats stumptown beard gentrify pickled."
+      "text":"Có rất nhiều biến thể của Lorem Ipsum mà bạn có thể tìm thấy, nhưng đa số được biến đổi bằng cách thêm các yếu tố hài hước, các từ ngẫu nhiên có khi không có vẻ gì là có ý nghĩa. Nếu bạn định sử dụng một đoạn Lorem Ipsum, bạn nên kiểm tra kĩ để chắn chắn là không có gì nhạy cảm được giấu ở giữa đoạn văn bản."
    },
    {
       "tagid":"384",
@@ -463,6 +529,7 @@
       "wip":"0",
       "nsfw":"1",
       "tbr":"0",
+      "total":"905",
       "tags":[
          {
             "tag":"pop culture",
@@ -471,7 +538,7 @@
          }
       ],
       "title":"Use of the Psychic in Manga and Anime",
-      "text":""
+      "text":"Give attitude hopped up on goofballs behind the couch run in circles. Give attitude all of a sudden go crazy. Nap all day leave dead animals as gifts, so hunt anything that moves, so intently sniff hand. Behind the couch. Burrow under covers find something else more interesting and rub face on everything. Find something else more interesting intrigued by the shower. Give attitude behind the couch. Throwup on your pillow inspect anything brought into the house so intently sniff hand yet attack feet yet missing until dinner time. Swat at dog."
    },
    {
       "tagid":"385",
@@ -482,6 +549,7 @@
       "wip":"0",
       "nsfw":"1",
       "tbr":"1",
+      "total":"1792",
       "tags":[
          {
             "tag":"literature",
@@ -492,7 +560,7 @@
          }
       ],
       "title":"My Top Ten picks for the Hooded Utilitarian",
-      "text":"Porta decor savez des peres oui masse noces air. Entendu tendues ou un station xv je cavites. Ces pauvrete cherirai fit vin bravoure appareil. Revolution arriverent me de tricolores convulsion petitement vieillards. Peu militaire bon entremise oui conquerir cauchemar bourreaux mes. La revele qu du poemes guerre contes tu. Oui par cathedrale descendons patiemment eux. Noces terre te et frire rirez. Fit divergent positions universel gendarmes peu dur. Ma au va laissons kolbacks ouvertes il radieuse. Offrir coiffe rachat la simple ce il brumes. Ras unir tira cime pile ici faux nuit. Signalant mur que annoncait indicible assassins dentelles six. Ils non non ville car sorte wagon. Craignait sa situation il orientaux on capitaine frontiere. Moins tetes ils reste roc frire ville nos. Imprudente compassion de du condamnait la et. Fin egorger son maigres feu puisque dut."
+      "text":"Ada banyak variasi tulisan Lorem Ipsum yang tersedia, tapi kebanyakan sudah mengalami perubahan bentuk, entah karena unsur humor atau kalimat yang diacak hingga nampak sangat tidak masuk akal. Jika anda ingin menggunakan tulisan Lorem Ipsum, anda harus yakin tidak ada bagian yang memalukan yang tersembunyi di tengah naskah tersebut. Semua generator Lorem Ipsum di internet cenderung untuk mengulang bagian-bagian tertentu."
    },
    {
       "tagid":"386",
@@ -503,6 +571,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"748",
       "tags":[
          {
             "tag":"webapps",
@@ -511,7 +580,7 @@
          }
       ],
       "title":"Selecting points from a database by latitude/longitude within a bounding circle",
-      "text":""
+      "text":"Financial experts are worried about Spearheadage.Com, which is not only in financial trouble but has been acting very erratically lately. Instead of laying off employees that they don't need, they've increased their workforce by 46% even though in a few months they'll start bouncing payroll checks. According to some, the company is doomed because it built a website with gratuitious Flash, JavaScript, and ActiveX features that irritated everyone. So what gives?"
    },
    {
       "tagid":"387",
@@ -522,6 +591,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"186",
       "tags":[
          {
             "tag":"history",
@@ -531,7 +601,7 @@
          }
       ],
       "title":"MAX TILKE: ORIENTAL COSTUMES THEIR DESIGNS AND COLORS",
-      "text":"Meditation single-origin coffee butcher next level plaid. Occupy jean shorts quinoa, seitan taxidermy chambray cred meh mumblecore bicycle rights shabby chic. Pinterest stumptown keytar chia Echo Park 90's, asymmetrical Helvetica food truck Blue Bottle art party forage Vice meditation. Food truck Austin polaroid church-key, normcore listicle paleo heirloom Williamsburg distillery hoodie. Mixtape roof party Vice squid kitsch trust fund. IPhone meditation polaroid street art leggings American Apparel, next level fanny pack four dollar toast. High Life bicycle rights heirloom flannel."
+      "text":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane."
    },
    {
       "tagid":"388",
@@ -542,6 +612,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"1425",
       "tags":[
          {
             "tag":"sengoku",
@@ -551,7 +622,7 @@
          }
       ],
       "title":"Military trends during the Sengoku Period",
-      "text":"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. "
+      "text":"Toffee bear claw cotton candy gummi bears marshmallow gummi bears pudding sugar plum. Gummies pastry jelly-o dragée sesame snaps tart cake chocolate cake. Gummi bears oat cake gummi bears. Dessert muffin sesame snaps lemon drops. Lollipop oat cake powder cake cotton candy liquorice bear claw. Chocolate lollipop danish cake cake topping chupa chups. Cheesecake caramels ice cream fruitcake halvah donut icing. Halvah topping halvah marshmallow. Croissant dragée marzipan lemon drops sweet chocolate cake cookie chupa chups carrot cake. Chocolate bar candy canes cupcake. Jelly beans bonbon cake. Sweet soufflé danish pudding soufflé. Bonbon fruitcake sweet roll tootsie roll ice cream wafer apple pie dragée carrot cake."
    },
    {
       "tagid":"389",
@@ -562,6 +633,7 @@
       "wip":"0",
       "nsfw":"1",
       "tbr":"1",
+      "total":"555",
       "tags":[
          {
             "tag":"ux",
@@ -572,7 +644,7 @@
          }
       ],
       "title":"Visual Vocabulary for Information Architecture",
-      "text":"Chocolate bar cheesecake oat cake gummies. Jelly-o jelly beans apple pie biscuit. Macaroon chocolate bar bonbon pastry gummi bears carrot cake brownie. Croissant cheesecake marshmallow danish tart oat cake marzipan cake cotton candy. Cupcake tiramisu sesame snaps cookie candy canes. Dessert caramels gummies oat cake tart. Jelly macaroon jujubes topping marshmallow."
+      "text":"Det finns många olika varianter av Lorem Ipsum, men majoriteten av dessa har ändrats på någotvis. Antingen med inslag av humor, eller med inlägg av ord som knappast ser trovärdiga ut. Skall man använda långa stycken av Lorem Ipsum bör man försäkra sig om att det inte gömmer sig något pinsamt mitt i texten. Lorem Ipsum-generatorer på internet tenderar att repetera Lorem Ipsum-texten styckvis efter behov, något som gör denna sidan till den första riktiga Lorem Ipsum-generatorn på internet."
    },
    {
       "tagid":"390",
@@ -583,6 +655,7 @@
       "wip":"1",
       "nsfw":"0",
       "tbr":"0",
+      "total":"711",
       "tags":[
          {
             "tag":"folklore",
@@ -592,7 +665,7 @@
          }
       ],
       "title":"Mythical 16th-century disease critters",
-      "text":""
+      "text":"telo kepeken mun vi. moli akesi kepeken ali e, pi kala kule pini anu. olin taso jan vt. kute insa kulupu a sep, oth en kule nasa pilin. anu tu pona lawa sijelo. vi lupa weka wan, suli awen nanpa o tan. sep toki mije sitelen ma, len vt suli sike."
    },
    {
       "tagid":"391",
@@ -603,6 +676,7 @@
       "wip":"0",
       "nsfw":"1",
       "tbr":"0",
+      "total":"1225",
       "tags":[
          {
             "tag":"shamanism",
@@ -611,7 +685,7 @@
          }
       ],
       "title":"The drawings of JeungSanDo’s",
-      "text":"Social proof bootstrapping infographic first mover advantage www.discoverartisans.com long tail founders client leverage branding. Infographic iteration long tail rockstar angel investor burn rate hackathon."
+      "text":"We take steps towards tirelessly embracing our partnerships as the first step in our scheme to energetically extend our infomediaries as a component of our plan to meet the wants of our valued customers."
    },
    {
       "tagid":"392",
@@ -622,6 +696,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"1",
+      "total":"1774",
       "tags":[
          {
             "tag":"culture",
@@ -630,7 +705,7 @@
          }
       ],
       "title":"[妖しい] The creepy and beautiful",
-      "text":""
+      "text":"Uno dei fatti piu notevoli al principio del decimosesto secolo e senza dubbio l'apparire della cortigiana; figura degna di considerazione e di esame non ebbe pur anco uno storico che di lei si occupasse scrupolosamente e gelosamente, e, diseppellendo dalle biblioteche ed archivii i numerosi documenti che la riguardano, dasse compiuta questa pagina di storia che non e tra le ultime del nostro rinascimento. "
    },
    {
       "tagid":"393",
@@ -641,6 +716,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"1226",
       "tags":[
          {
             "tag":"folklore",
@@ -650,7 +726,7 @@
          }
       ],
       "title":"[恠] Bakeneko・Youkai studies・Hagiology",
-      "text":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. "
+      "text":"Lumbersexual forage cliche pickled stumptown. Deep v heirloom jean shorts VHS migas, +1 messenger bag Marfa authentic slow-carb Blue Bottle XOXO tousled. Pinterest Odd Future High Life kale chips gastropub, Carles dreamcatcher. Single-origin coffee chillwave taxidermy Kickstarter ennui Banksy selfies. McSweeney's beard before they sold out slow-carb put a bird on it fanny pack, DIY lumbersexual trust fund."
    },
    {
       "tagid":"394",
@@ -661,6 +737,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"10",
       "tags":[
          {
             "tag":"japan",
@@ -668,8 +745,8 @@
             "tag":"design"
          }
       ],
-      "title":"家紋辞典と格安即納家紋データなら「家紋の湊」",
-      "text":""
+      "title":"",
+      "text":"Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker."
    },
    {
       "tagid":"395",
@@ -680,6 +757,7 @@
       "wip":"0",
       "nsfw":"1",
       "tbr":"1",
+      "total":"1217",
       "tags":[
          {
             "tag":"linguistics",
@@ -689,7 +767,7 @@
          }
       ],
       "title":"Ainu-English Word List",
-      "text":"Yr pickled hashtag, chia Helvetica leggings synth beard bicycle rights viral High Life four loko selvage. Thundercats pickled listicle iPhone hella, fap swag farm-to-table. Narwhal fap wayfarers crucifix, Truffaut artisan cardigan occupy authentic. Sustainable ugh street art, PBR&B cliche High Life bitters Portland slow-carb vegan kogi Carles pour-over XOXO 90's. Tote bag synth aesthetic, semiotics messenger bag wolf small batch jean shorts cray. Cray tattooed High Life, lo-fi twee crucifix irony. Next level ethical Tumblr, gastropub literally McSweeney's Thundercats American Apparel stumptown bitters pickled biodiesel."
+      "text":"Sweet roll pastry ice cream marshmallow. Sesame snaps wafer powder. Tiramisu pastry biscuit. Gingerbread dessert jelly marzipan. Jelly-o bear claw toffee chupa chups jelly-o icing chocolate cake ice cream. Cheesecake soufflé jujubes chocolate sugar plum cookie lollipop fruitcake. Oat cake sweet roll bonbon muffin. Jelly-o tootsie roll biscuit pudding donut. Pastry dragée jelly pie. "
    },
    {
       "tagid":"396",
@@ -700,6 +778,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"1",
+      "total":"591",
       "tags":[
          {
             "tag":"mechanics",
@@ -708,7 +787,7 @@
          }
       ],
       "title":"Smoother Shifting for BMW Twins",
-      "text":""
+      "text":"Ez egy régóta elfogadott tény, miszerint egy olvasót zavarja az olvasható szöveg miközben a szöveg elrendezését nézi. A Lorem Ipsum használatának lényege, hogy többé-kevésbé rendezettebb betûket tartalmaz, ellentétben a Tartalom helye, Tartalom helye-féle megoldással. Sok desktop szerkesztõ és weboldal szerkesztõ használja a Lorem Ipsum-ot mint alapbeállítású szövegmodellt, és egy keresés a lorem ipsum-ra sok félkész weboldalt fog eredményezni."
    },
    {
       "tagid":"397",
@@ -719,6 +798,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"1",
+      "total":"1025",
       "tags":[
          {
             "tag":"mechanics",
@@ -728,7 +808,7 @@
          }
       ],
       "title":"Dan's Motorcycle 'Definitions'",
-      "text":"Before they sold out roof party pug vinyl occupy, tote bag Pitchfork plaid. Brunch Williamsburg cornhole, tousled jean shorts tote bag before they sold out scenester sustainable DIY slow-carb. Lo-fi chambray gastropub, bespoke master cleanse Intelligentsia taxidermy bitters quinoa direct trade tofu bicycle rights kale chips. Banh mi paleo blog, master cleanse kale chips actually ennui crucifix wolf Bushwick. Hashtag asymmetrical four loko banjo single-origin coffee. Shoreditch ennui vegan heirloom, four loko mustache Intelligentsia. Cornhole put a bird on it whatever Carles."
+      "text":"This app does everything you could possibly want it to do and not only that, it is beautifully designed and extremely intuitive to use. Download it from the App Store for FREE if you don’t mind some adverts popping up or if you prefer an ad-free experience then you can down load the ad-free version for 99p."
    },
    {
       "tagid":"398",
@@ -739,6 +819,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"1528",
       "tags":[
          {
             "tag":"history",
@@ -749,7 +830,7 @@
          }
       ],
       "title":"The Flower of Battle: An Interview with Bob Charron",
-      "text":"Fashion axe post-ironic Tumblr normcore salvia. Four dollar toast Etsy pickled, drinking vinegar chia butcher DIY XOXO flexitarian fap craft beer lomo raw denim twee. Gentrify tousled plaid pickled, raw denim YOLO tilde flannel beard DIY selvage tofu health goth. Tousled flannel butcher bespoke, ennui salvia put a bird on it. Slow-carb keytar Pinterest literally."
+      "text":"In fallible when on so gawked far clumsy indiscriminate barring much locked unthinking far since vulgar and in checked obedient and secretly less wedded neutrally husky that some after this visual squirrel negatively much the incessantly grabbed much ready wherever because on opposite hippopotamus in one above providently led grumbled when far or ouch far therefore jadedly less that scorpion until this bewitchingly far clenched oh less near grizzly chose slavish gosh ready hardheadedly fashionably a imitative unexpectedly some the various unexplainably one spoon-fed up bald chameleon sensitive some groomed before during various one ouch touched the."
    },
    {
       "tagid":"399",
@@ -760,6 +841,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"12",
       "tags":[
          {
             "tag":"medieval",
@@ -768,7 +850,7 @@
          }
       ],
       "title":"Manners, Customs, and Dress During the Middle Ages, and During the Renaissance Period, by Paul Lacroix",
-      "text":"Pork belly kogi banh mi craft beer, tilde distillery chillwave actually gentrify mustache McSweeney's fap Echo Park vinyl meggings. Food truck selfies flexitarian blog, ugh mlkshk readymade. Pitchfork four dollar toast disrupt, food truck 8-bit mixtape gluten-free deep v PBR&B 3 wolf moon swag Blue Bottle."
+      "text":" Chambray kitsch photo booth +1 food truck gluten-free church-key ugh, drinking vinegar locavore crucifix quinoa four dollar toast Blue Bottle Etsy. Tumblr fixie stumptown put a bird on it taxidermy."
    },
    {
       "tagid":"400",
@@ -779,6 +861,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"698",
       "tags":[
          {
             "tag":"language",
@@ -787,7 +870,7 @@
          }
       ],
       "title":"Glossary of traditional and archaic words",
-      "text":"The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens jump; dozy fowl quack. Quick wafting zephyrs vex bold Jim. Quick zephyrs blow, vexing daft Jim. Sex-charged fop blew my junk TV quiz. How quickly daft jumping zebras vex. Two driven jocks help fax my big quiz. Quick, Baz, get my woven flax jodhpurs!"
+      "text":"De alli salieron martes, a las nueve y media de la manana, y con distar Montevideo solas cincuenta leguas de Buenos Aires, no pudieron tomar su puerto hasta el lunes 13, que a las once y media del dia dieron fondo en medio de su ensenada. Alli, entre la gente de aquel presidio, se eligieron los veinte y cinco soldados, que se habian de embarcar, a cargo del alferez D. Salvador Martin de Olmo: porque, aunque deseaba el Senor Gobernador de Buenos Aires, que fuese mayor el numero de los soldados, y habia otros muchos que."
    },
    {
       "tagid":"401",
@@ -798,6 +881,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"598",
       "tags":[
          {
             "tag":"recipes",
@@ -806,7 +890,7 @@
          }
       ],
       "title":"How to Cook Medieval Vegetables",
-      "text":""
+      "text":"Most of our clients use our Data Analysis service to inform their strategic decision making and their targets for the immediate, mid-term and long-term future. The data sources that we use for this type of analysis include customer enquiry data, sales figures, costs, market data and customer feedback."
    },
    {
       "tagid":"402",
@@ -817,6 +901,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"1",
+      "total":"688",
       "tags":[
          {
             "tag":"people",
@@ -826,7 +911,7 @@
          }
       ],
       "title":"Investing the Riches of the Poor: Servant Women and Their Last Wills | The American Historical Review, 109.3 | The History Cooperative",
-      "text":"Shade valuable stitching bold trendwatching sportswear glitter trend photography catwalk. Comfortable industry fashion bows halter jumper. Hand-made model sewing replicate measurement handbag tailor identity jewelry impeccable stock necessity. Prediction unique sari zipper sportswear contemporary Haute-couture xl garment taste independant clothing pret-a-porter quantity."
+      "text":"Lumbersexual forage cliche pickled stumptown. Deep v heirloom jean shorts VHS migas, +1 messenger bag Marfa authentic slow-carb Blue Bottle XOXO tousled. Pinterest Odd Future High Life kale chips gastropub, Carles dreamcatcher. Single-origin coffee chillwave taxidermy Kickstarter ennui Banksy selfies. McSweeney's beard before they sold out slow-carb put a bird on it fanny pack, DIY lumbersexual trust fund."
    },
    {
       "tagid":"403",
@@ -837,6 +922,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"1",
+      "total":"1889",
       "tags":[
          {
             "tag":"renaissance",
@@ -845,7 +931,7 @@
          }
       ],
       "title":"Chapter 6: The Mendoza Family in the Spanish Renaissance 1350-1550",
-      "text":"Ecosystem sales investor social media seed round. Ramen investor product management social proof MVP business-to-business handshake buyer seed round strategy customer. Monetization crowdfunding deployment. Channels paradigm shift user experience accelerator. Entrepreneur launch party business-to-consumer supply chain strategy user experience influencer customer bootstrapping pivot venture. Funding ecosystem direct mailing alpha vesting period customer ownership www.discoverartisans.com. Conversion traction virality."
+      "text":"Toffee bear claw cotton candy gummi bears marshmallow gummi bears pudding sugar plum. Gummies pastry jelly-o dragée sesame snaps tart cake chocolate cake. Gummi bears oat cake gummi bears. Dessert muffin sesame snaps lemon drops. Lollipop oat cake powder cake cotton candy liquorice bear claw. Chocolate lollipop danish cake cake topping chupa chups. Cheesecake caramels ice cream fruitcake halvah donut icing. Halvah topping halvah marshmallow. Croissant dragée marzipan lemon drops sweet chocolate cake cookie chupa chups carrot cake. Chocolate bar candy canes cupcake. Jelly beans bonbon cake. Sweet soufflé danish pudding soufflé. Bonbon fruitcake sweet roll tootsie roll ice cream wafer apple pie dragée carrot cake."
    },
    {
       "tagid":"404",
@@ -856,6 +942,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"171",
       "tags":[
          {
             "tag":"monetary",
@@ -866,7 +953,7 @@
          }
       ],
       "title":"British Coins before the Florin, Compared to French Coins of the Ancient Regime",
-      "text":"Blog crucifix street art, kale chips chambray 90's literally iPhone. Jean shorts meh fixie twee cornhole. Wes Anderson lomo cold-pressed, beard McSweeney's bicycle rights pop-up. Leggings cornhole Brooklyn, cardigan food truck synth skateboard dreamcatcher migas pop-up wayfarers Austin hella Vice. Banh mi letterpress health goth American Apparel vinyl artisan selvage. Wes Anderson selfies wayfarers, readymade fixie irony direct trade iPhone keffiyeh. Fingerstache listicle DIY meh blog, try-hard four loko Helvetica keffiyeh single-origin coffee art party scenester polaroid tote bag dreamcatcher."
+      "text":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane."
    },
    {
       "tagid":"405",
@@ -877,6 +964,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"1",
+      "total":"1435",
       "tags":[
          {
             "tag":"europe",
@@ -886,7 +974,7 @@
          }
       ],
       "title":"The Food Timeline: history notes--meals & holiday entertaining",
-      "text":"Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles."
+      "text":"Sweet roll pastry ice cream marshmallow. Sesame snaps wafer powder. Tiramisu pastry biscuit. Gingerbread dessert jelly marzipan. Jelly-o bear claw toffee chupa chups jelly-o icing chocolate cake ice cream. Cheesecake soufflé jujubes chocolate sugar plum cookie lollipop fruitcake. Oat cake sweet roll bonbon muffin. Jelly-o tootsie roll biscuit pudding donut. Pastry dragée jelly pie. "
    },
    {
       "tagid":"406",
@@ -897,6 +985,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"1",
+      "total":"1494",
       "tags":[
          {
             "tag":"socio-politics",
@@ -906,7 +995,7 @@
          }
       ],
       "title":"THE ITALIAN CITY-STATES OF THE RENAISSANCE",
-      "text":""
+      "text":"Most of our clients use our Data Analysis service to inform their strategic decision making and their targets for the immediate, mid-term and long-term future. The data sources that we use for this type of analysis include customer enquiry data, sales figures, costs, market data and customer feedback."
    },
    {
       "tagid":"407",
@@ -917,6 +1006,7 @@
       "wip":"0",
       "nsfw":"1",
       "tbr":"1",
+      "total":"321",
       "tags":[
          {
             "tag":"library",
@@ -925,7 +1015,7 @@
          }
       ],
       "title":"The Vatican Library",
-      "text":"Bezocht der zou stroeve ver smelter moderne het sommige. Al in welks hevea dagen geldt. Chinees op beperkt ik af ontdaan. Grooter valorem te gropeng af. Jaarlijks moerassen wat oog federatie dal. Gesteld in tijgers daarbij bestaat opening ik en. Getracht gewonnen aan rug wasschen inwoners lot had."
+      "text":"Epsum factorial non deposit quid pro quo hic escorol. Olypian quarrels et gorilla congolium sic ad nauseum. Souvlaki ignitus carborundum e pluribus unum. Defacto lingo est igpay atinlay. Marquee selectus non provisio incongruous feline nolo contendre. Gratuitous octopus niacin, sodium glutimate. Quote meon an estimate et non interruptus stadium.  Sic tempus fugit esperanto hiccup estrogen. Glorious baklava ex librus hup hey ad infinitum. Non sequitur condominium facile et geranium incognito. Epsum factorial non deposit quid pro quo hic escorol. Marquee selectus non provisio incongruous feline nolo contendre Olypian quarrels et gorilla congolium sic ad nauseum. Souvlaki ignitus carborundum e pluribus unum.  "
    },
    {
       "tagid":"408",
@@ -936,6 +1026,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"1504",
       "tags":[
          {
             "tag":"history",
@@ -944,7 +1035,7 @@
          }
       ],
       "title":"Incunabula Leaves from Germany",
-      "text":""
+      "text":"Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI."
    },
    {
       "tagid":"409",
@@ -955,6 +1046,7 @@
       "wip":"1",
       "nsfw":"1",
       "tbr":"1",
+      "total":"176",
       "tags":[
          {
             "tag":"medieval",
@@ -963,7 +1055,7 @@
          }
       ],
       "title":"Old Norse Language information",
-      "text":"Blue Bottle Williamsburg lo-fi polaroid Truffaut. Retro deep v High Life, yr Intelligentsia aesthetic squid gentrify Echo Park. Stumptown actually Helvetica, leggings sustainable vinyl church-key farm-to-table +1 jean shorts sartorial Truffaut literally. Normcore sartorial XOXO, kogi direct trade Thundercats stumptown beard gentrify pickled."
+      "text":"We take steps towards tirelessly embracing our partnerships as the first step in our scheme to energetically extend our infomediaries as a component of our plan to meet the wants of our valued customers."
    },
    {
       "tagid":"410",
@@ -974,6 +1066,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"354",
       "tags":[
          {
             "tag":"medieval",
@@ -982,7 +1075,7 @@
          }
       ],
       "title":"Medieval Naming Guides: Italian",
-      "text":"Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles."
+      "text":"Det finns många olika varianter av Lorem Ipsum, men majoriteten av dessa har ändrats på någotvis. Antingen med inslag av humor, eller med inlägg av ord som knappast ser trovärdiga ut. Skall man använda långa stycken av Lorem Ipsum bör man försäkra sig om att det inte gömmer sig något pinsamt mitt i texten. Lorem Ipsum-generatorer på internet tenderar att repetera Lorem Ipsum-texten styckvis efter behov, något som gör denna sidan till den första riktiga Lorem Ipsum-generatorn på internet."
    },
    {
       "tagid":"411",
@@ -993,6 +1086,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"30",
       "tags":[
          {
             "tag":"reference",
@@ -1002,7 +1096,7 @@
          }
       ],
       "title":"Japanese name lookup",
-      "text":""
+      "text":"Schlitz single-origin coffee forage swag, photo booth selfies disrupt banjo bitters. Paleo keytar bicycle rights, cliche skateboard plaid Vice post-ironic shabby chic church-key. Cornhole viral artisan Echo Park Carles. Cray bitters hella mustache direct trade, Marfa pork belly pickled distillery food truck Pitchfork Williamsburg McSweeney's plaid. Lumbersexual vinyl flexitarian umami asymmetrical. Sriracha small batch Neutra street art polaroid lomo biodiesel. Leggings four loko dreamcatcher twee master cleanse pour-over."
    },
    {
       "tagid":"412",
@@ -1013,6 +1107,7 @@
       "wip":"0",
       "nsfw":"1",
       "tbr":"1",
+      "total":"1366",
       "tags":[
          {
             "tag":"maintenance",
@@ -1021,7 +1116,7 @@
          }
       ],
       "title":"Sharpening a Chisel",
-      "text":""
+      "text":"Ha uno subjecto traducite, regula europee simplificate sed il. Europa summarios registrate pro le. Un servi message instruction con, ma major philologos sia. Se web tres latente. Nos da populos flexione, super subjecto interlinguistica duo un, per al tote secundarimente. Scriber philologos da con, gymnasios encyclopedia secundarimente web se, debe summario o uso. Que se libro grammatica conferentias."
    },
    {
       "tagid":"413",
@@ -1032,6 +1127,7 @@
       "wip":"0",
       "nsfw":"1",
       "tbr":"0",
+      "total":"335",
       "tags":[
          {
             "tag":"planes",
@@ -1042,7 +1138,7 @@
          }
       ],
       "title":"Sharpening Chisels and Plane Irons",
-      "text":"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. "
+      "text":"Uno dei fatti piu notevoli al principio del decimosesto secolo e senza dubbio l'apparire della cortigiana; figura degna di considerazione e di esame non ebbe pur anco uno storico che di lei si occupasse scrupolosamente e gelosamente, e, diseppellendo dalle biblioteche ed archivii i numerosi documenti che la riguardano, dasse compiuta questa pagina di storia che non e tra le ultime del nostro rinascimento. "
    },
    {
       "tagid":"414",
@@ -1053,6 +1149,7 @@
       "wip":"1",
       "nsfw":"0",
       "tbr":"0",
+      "total":"896",
       "tags":[
          {
             "tag":"handwork",
@@ -1060,7 +1157,7 @@
          }
       ],
       "title":"Scrap Copper Makes a Great Door Pull",
-      "text":"Brownie topping sesame snaps tart oat cake cake cotton candy tootsie roll gingerbread. Oat cake tart jelly beans chocolate cake lollipop bonbon. Gummi bears jujubes chocolate bar croissant halvah cotton candy chocolate cake carrot cake. Gummies jelly-o biscuit sweet bear claw candy canes candy canes cheesecake. Fruitcake cotton candy chupa chups. Liquorice bonbon tart bonbon."
+      "text":"Ez egy régóta elfogadott tény, miszerint egy olvasót zavarja az olvasható szöveg miközben a szöveg elrendezését nézi. A Lorem Ipsum használatának lényege, hogy többé-kevésbé rendezettebb betûket tartalmaz, ellentétben a Tartalom helye, Tartalom helye-féle megoldással. Sok desktop szerkesztõ és weboldal szerkesztõ használja a Lorem Ipsum-ot mint alapbeállítású szövegmodellt, és egy keresés a lorem ipsum-ra sok félkész weboldalt fog eredményezni."
    },
    {
       "tagid":"415",
@@ -1071,6 +1168,7 @@
       "wip":"1",
       "nsfw":"1",
       "tbr":"0",
+      "total":"992",
       "tags":[
          {
             "tag":"debate",
@@ -1080,7 +1178,7 @@
          }
       ],
       "title":"A Manga Canon?",
-      "text":"Aesthetic hashtag skateboard, Intelligentsia flexitarian tousled ennui locavore synth before they sold out mumblecore deep v Austin next level. Asymmetrical health goth chia, church-key flannel hoodie sriracha cold-pressed PBR lumbersexual 90's. Small batch mumblecore ennui sriracha chambray heirloom, craft beer McSweeney's biodiesel master cleanse tilde chillwave pop-up hella jean shorts. Wayfarers DIY single-origin coffee iPhone, chambray Williamsburg semiotics. Etsy beard migas, wolf occupy four dollar toast pug scenester crucifix DIY 8-bit iPhone farm-to-table. Meggings keytar pug, biodiesel bespoke asymmetrical Austin 8-bit small batch synth whatever. 90's VHS Portland, Truffaut small batch pug scenester hoodie pickled."
+      "text":"In fallible when on so gawked far clumsy indiscriminate barring much locked unthinking far since vulgar and in checked obedient and secretly less wedded neutrally husky that some after this visual squirrel negatively much the incessantly grabbed much ready wherever because on opposite hippopotamus in one above providently led grumbled when far or ouch far therefore jadedly less that scorpion until this bewitchingly far clenched oh less near grizzly chose slavish gosh ready hardheadedly fashionably a imitative unexpectedly some the various unexplainably one spoon-fed up bald chameleon sensitive some groomed before during various one ouch touched the."
    },
    {
       "tagid":"416",
@@ -1091,6 +1189,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"1057",
       "tags":[
          {
             "tag":"javascript",
@@ -1100,7 +1199,7 @@
          }
       ],
       "title":"50 jQuery Function Demos",
-      "text":"Success client stock low hanging fruit influencer learning curve startup stealth validation paradigm shift. Social media success marketing graphical user interface metrics. Seed money success MVP investor business-to-consumer business model canvas termsheet entrepreneur burn rate first mover advantage influencer gen-z android."
+      "text":"Có rất nhiều biến thể của Lorem Ipsum mà bạn có thể tìm thấy, nhưng đa số được biến đổi bằng cách thêm các yếu tố hài hước, các từ ngẫu nhiên có khi không có vẻ gì là có ý nghĩa. Nếu bạn định sử dụng một đoạn Lorem Ipsum, bạn nên kiểm tra kĩ để chắn chắn là không có gì nhạy cảm được giấu ở giữa đoạn văn bản."
    },
    {
       "tagid":"417",
@@ -1111,6 +1210,7 @@
       "wip":"0",
       "nsfw":"1",
       "tbr":"0",
+      "total":"921",
       "tags":[
          {
             "tag":"ux",
@@ -1119,7 +1219,7 @@
          }
       ],
       "title":"Applying Fitts’ Law To Mobile Interface Design",
-      "text":"Skateboard High Life fap bicycle rights Bushwick. Stumptown distillery Carles church-key cliche. Beard VHS XOXO tilde, fashion axe sriracha trust fund swag 3 wolf moon Truffaut church-key High Life. Squid health goth iPhone, asymmetrical four loko 90's keytar art party food truck farm-to-table umami. Photo booth +1 meggings, Godard listicle bicycle rights lomo distillery. Stumptown Thundercats blog, farm-to-table leggings cliche Etsy narwhal irony. Direct trade tote bag hashtag, farm-to-table pour-over DIY bespoke food truck banjo."
+      "text":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
    },
    {
       "tagid":"418",
@@ -1130,6 +1230,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"1040",
       "tags":[
          {
             "tag":"mobile",
@@ -1140,7 +1241,7 @@
          }
       ],
       "title":"Application Cache is a Douchebag",
-      "text":""
+      "text":"Der er mange tilgængelige udgaver af Lorem Ipsum, men de fleste udgaver har gennemgået forandringer, når nogen har tilføjet humor eller tilfældige ord, som på ingen måde ser ægte ud. Hvis du skal bruge en udgave af Lorem Ipsum, skal du sikre dig, at der ikke indgår noget pinligt midt i teksten."
    },
    {
       "tagid":"419",
@@ -1151,6 +1252,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"1840",
       "tags":[
          {
             "tag":"design",
@@ -1159,7 +1261,7 @@
          }
       ],
       "title":"Employing AIDA Principles in Web Design",
-      "text":"Luxurious make up collection. Pastel urban tailor contemporary high heels casual clothing expensive. Waistline shape conformity allure stock old-fashioned signature leotard fashion accessory. Craftmanship sportswear couture stitching attractive old-fashioned hair petticoat quality hippie zipper."
+      "text":"telo kepeken mun vi. moli akesi kepeken ali e, pi kala kule pini anu. olin taso jan vt. kute insa kulupu a sep, oth en kule nasa pilin. anu tu pona lawa sijelo. vi lupa weka wan, suli awen nanpa o tan. sep toki mije sitelen ma, len vt suli sike."
    },
    {
       "tagid":"420",
@@ -1170,6 +1272,7 @@
       "wip":"0",
       "nsfw":"1",
       "tbr":"0",
+      "total":"1665",
       "tags":[
          {
             "tag":"internationalization",
@@ -1178,7 +1281,7 @@
          }
       ],
       "title":"6 Key Questions to Guide International UX Research",
-      "text":"Chocolate bar cheesecake oat cake gummies. Jelly-o jelly beans apple pie biscuit. Macaroon chocolate bar bonbon pastry gummi bears carrot cake brownie. Croissant cheesecake marshmallow danish tart oat cake marzipan cake cotton candy. Cupcake tiramisu sesame snaps cookie candy canes. Dessert caramels gummies oat cake tart. Jelly macaroon jujubes topping marshmallow."
+      "text":"Give attitude hopped up on goofballs behind the couch run in circles. Give attitude all of a sudden go crazy. Nap all day leave dead animals as gifts, so hunt anything that moves, so intently sniff hand. Behind the couch. Burrow under covers find something else more interesting and rub face on everything. Find something else more interesting intrigued by the shower. Give attitude behind the couch. Throwup on your pillow inspect anything brought into the house so intently sniff hand yet attack feet yet missing until dinner time. Swat at dog."
    },
    {
       "tagid":"421",
@@ -1189,6 +1292,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"1805",
       "tags":[
          {
             "tag":"history",
@@ -1198,7 +1302,7 @@
          }
       ],
       "title":"Owari in 1559",
-      "text":"Pork belly kogi banh mi craft beer, tilde distillery chillwave actually gentrify mustache McSweeney's fap Echo Park vinyl meggings. Food truck selfies flexitarian blog, ugh mlkshk readymade. Pitchfork four dollar toast disrupt, food truck 8-bit mixtape gluten-free deep v PBR&B 3 wolf moon swag Blue Bottle."
+      "text":"Financial experts are worried about Spearheadage.Com, which is not only in financial trouble but has been acting very erratically lately. Instead of laying off employees that they don't need, they've increased their workforce by 46% even though in a few months they'll start bouncing payroll checks. According to some, the company is doomed because it built a website with gratuitious Flash, JavaScript, and ActiveX features that irritated everyone. So what gives?"
    },
    {
       "tagid":"422",
@@ -1209,6 +1313,7 @@
       "wip":"0",
       "nsfw":"1",
       "tbr":"0",
+      "total":"214",
       "tags":[
          {
             "tag":"design",
@@ -1219,7 +1324,7 @@
          }
       ],
       "title":"Reading Drawings: Architecture and Comics",
-      "text":"Before they sold out roof party pug vinyl occupy, tote bag Pitchfork plaid. Brunch Williamsburg cornhole, tousled jean shorts tote bag before they sold out scenester sustainable DIY slow-carb. Lo-fi chambray gastropub, bespoke master cleanse Intelligentsia taxidermy bitters quinoa direct trade tofu bicycle rights kale chips. Banh mi paleo blog, master cleanse kale chips actually ennui crucifix wolf Bushwick. Hashtag asymmetrical four loko banjo single-origin coffee. Shoreditch ennui vegan heirloom, four loko mustache Intelligentsia. Cornhole put a bird on it whatever Carles."
+      "text":"De alli salieron martes, a las nueve y media de la manana, y con distar Montevideo solas cincuenta leguas de Buenos Aires, no pudieron tomar su puerto hasta el lunes 13, que a las once y media del dia dieron fondo en medio de su ensenada. Alli, entre la gente de aquel presidio, se eligieron los veinte y cinco soldados, que se habian de embarcar, a cargo del alferez D. Salvador Martin de Olmo: porque, aunque deseaba el Senor Gobernador de Buenos Aires, que fuese mayor el numero de los soldados, y habia otros muchos que."
    },
    {
       "tagid":"423",
@@ -1230,6 +1335,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"924",
       "tags":[
          {
             "tag":"essays",
@@ -1239,7 +1345,7 @@
          }
       ],
       "title":"Index to Telophase's Manga Analysis Series",
-      "text":"Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles."
+      "text":"Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker."
    },
    {
       "tagid":"424",
@@ -1250,6 +1356,7 @@
       "wip":"0",
       "nsfw":"1",
       "tbr":"0",
+      "total":"262",
       "tags":[
          {
             "tag":"design",
@@ -1258,7 +1365,7 @@
          }
       ],
       "title":"Visual Languages of Manga and Comics",
-      "text":"a few posts on manga layout"
+      "text":"Ada banyak variasi tulisan Lorem Ipsum yang tersedia, tapi kebanyakan sudah mengalami perubahan bentuk, entah karena unsur humor atau kalimat yang diacak hingga nampak sangat tidak masuk akal. Jika anda ingin menggunakan tulisan Lorem Ipsum, anda harus yakin tidak ada bagian yang memalukan yang tersembunyi di tengah naskah tersebut. Semua generator Lorem Ipsum di internet cenderung untuk mengulang bagian-bagian tertentu."
    },
    {
       "tagid":"425",
@@ -1269,6 +1376,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"1000",
       "tags":[
          {
             "tag":"manga",
@@ -1277,7 +1385,7 @@
          }
       ],
       "title":"Drawing Manga - Page Layout",
-      "text":"Meditation single-origin coffee butcher next level plaid. Occupy jean shorts quinoa, seitan taxidermy chambray cred meh mumblecore bicycle rights shabby chic. Pinterest stumptown keytar chia Echo Park 90's, asymmetrical Helvetica food truck Blue Bottle art party forage Vice meditation. Food truck Austin polaroid church-key, normcore listicle paleo heirloom Williamsburg distillery hoodie. Mixtape roof party Vice squid kitsch trust fund. IPhone meditation polaroid street art leggings American Apparel, next level fanny pack four dollar toast. High Life bicycle rights heirloom flannel."
+      "text":" Chambray kitsch photo booth +1 food truck gluten-free church-key ugh, drinking vinegar locavore crucifix quinoa four dollar toast Blue Bottle Etsy. Tumblr fixie stumptown put a bird on it taxidermy."
    },
    {
       "tagid":"426",
@@ -1288,6 +1396,7 @@
       "wip":"1",
       "nsfw":"0",
       "tbr":"0",
+      "total":"1597",
       "tags":[
          {
             "tag":"layout",
@@ -1296,7 +1405,7 @@
          }
       ],
       "title":"Composition and Layout of Comic Book Pages",
-      "text":"Yr pickled hashtag, chia Helvetica leggings synth beard bicycle rights viral High Life four loko selvage. Thundercats pickled listicle iPhone hella, fap swag farm-to-table. Narwhal fap wayfarers crucifix, Truffaut artisan cardigan occupy authentic. Sustainable ugh street art, PBR&B cliche High Life bitters Portland slow-carb vegan kogi Carles pour-over XOXO 90's. Tote bag synth aesthetic, semiotics messenger bag wolf small batch jean shorts cray. Cray tattooed High Life, lo-fi twee crucifix irony. Next level ethical Tumblr, gastropub literally McSweeney's Thundercats American Apparel stumptown bitters pickled biodiesel."
+      "text":"This app does everything you could possibly want it to do and not only that, it is beautifully designed and extremely intuitive to use. Download it from the App Store for FREE if you don’t mind some adverts popping up or if you prefer an ad-free experience then you can down load the ad-free version for 99p."
    },
    {
       "tagid":"427",
@@ -1307,6 +1416,7 @@
       "wip":"1",
       "nsfw":"0",
       "tbr":"0",
+      "total":"738",
       "tags":[
          {
             "tag":"tutorials",
@@ -1315,7 +1425,7 @@
          }
       ],
       "title":"Paneling, Pacing, and Layout in Comics and Manga #2",
-      "text":"Metrics startup partner network funding investor ecosystem. Crowdfunding beta stealth learning curve social media vesting period MVP agile development. Responsive web design backing niche market. User experience www.discoverartisans.com founders angel investor learning curve focus stock leverage holy grail long tail first mover advantage funding low hanging fruit supply chain. Equity infrastructure www.discoverartisans.com ramen rockstar buzz venture iPhone product management infographic burn rate. Influencer pivot creative gamification gen-z backing client. Success backing alpha venture scrum project beta first mover advantage niche market graphical user interface funding incubator business model canvas. Investor partnership bandwidth conversion seed round. Conversion strategy MVP non-disclosure agreement. Interaction design www.discoverartisans.com technology disruptive low hanging fruit buyer responsive web design business-to-consumer success."
+      "text":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane."
    },
    {
       "tagid":"428",
@@ -1326,6 +1436,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"1962",
       "tags":[
          {
             "tag":"layout",
@@ -1335,7 +1446,7 @@
          }
       ],
       "title":"Paneling, Pacing, and Layout in Comics and Manga #1",
-      "text":""
+      "text":"Có rất nhiều biến thể của Lorem Ipsum mà bạn có thể tìm thấy, nhưng đa số được biến đổi bằng cách thêm các yếu tố hài hước, các từ ngẫu nhiên có khi không có vẻ gì là có ý nghĩa. Nếu bạn định sử dụng một đoạn Lorem Ipsum, bạn nên kiểm tra kĩ để chắn chắn là không có gì nhạy cảm được giấu ở giữa đoạn văn bản."
    },
    {
       "tagid":"429",
@@ -1346,6 +1457,7 @@
       "wip":"0",
       "nsfw":"0",
       "tbr":"0",
+      "total":"376",
       "tags":[
          {
             "tag":"webapps",
@@ -1353,44 +1465,6 @@
          }
       ],
       "title":"EU Cookie Law and How It Affects the Web - DesignModo",
-      "text":"Blog crucifix street art, kale chips chambray 90's literally iPhone. Jean shorts meh fixie twee cornhole. Wes Anderson lomo cold-pressed, beard McSweeney's bicycle rights pop-up. Leggings cornhole Brooklyn, cardigan food truck synth skateboard dreamcatcher migas pop-up wayfarers Austin hella Vice. Banh mi letterpress health goth American Apparel vinyl artisan selvage. Wes Anderson selfies wayfarers, readymade fixie irony direct trade iPhone keffiyeh. Fingerstache listicle DIY meh blog, try-hard four loko Helvetica keffiyeh single-origin coffee art party scenester polaroid tote bag dreamcatcher."
-   },
-   {
-      "tagid":"430",
-      "url":"http://www.interaction-design.org/encyclopedia/usability_evaluation.html?p=7980",
-      "added":"1337880956",
-      "private":"0",
-      "favorite":"0",
-      "wip":"0",
-      "nsfw":"1",
-      "tbr":"0",
-      "tags":[
-         {
-            "tag":"ux",
-            "tag":"design",
-            "tag":"usability"
-         }
-      ],
-      "title":"Usability Evaluation",
-      "text":""
-   },
-   {
-      "tagid":"431",
-      "url":"http://webdesign.tutsplus.com/articles/general/design-considerations-for-a-global-audience/",
-      "added":"1337880901",
-      "private":"0",
-      "favorite":"0",
-      "wip":"0",
-      "nsfw":"0",
-      "tbr":"0",
-      "tags":[
-         {
-            "tag":"ux",
-            "tag":"global",
-            "tag":"design"
-         }
-      ],
-      "title":"Design Considerations for a Global Audience | Webdesigntuts+",
-      "text":"Social proof bootstrapping infographic first mover advantage www.discoverartisans.com long tail founders client leverage branding. Infographic iteration long tail rockstar angel investor burn rate hackathon."
+      "text":"Financial experts are worried about Spearheadage.Com, which is not only in financial trouble but has been acting very erratically lately. Instead of laying off employees that they don't need, they've increased their workforce by 46% even though in a few months they'll start bouncing payroll checks. According to some, the company is doomed because it built a website with gratuitious Flash, JavaScript, and ActiveX features that irritated everyone. So what gives?"
    }
 ]
