@@ -8,9 +8,7 @@ var path = require('path');
 gulp.task('less', function() {
     return gulp.src('app/less/bootstrap.less')
         .pipe(plumber())
-        .pipe(less({
-          paths: [ path.join(__dirname, 'less', 'includes') ]
-        }))
+        .pipe(less())
         .pipe(gulp.dest('app/css'))
         .pipe(livereload());
 });
