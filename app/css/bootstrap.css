@@ -4979,7 +4979,88 @@ button.close {
   }
 }
 html {
-  margin: 20px auto;
+  margin: 0 auto;
+}
+.header-fixed {
+  margin: -50px 0 0 0;
+  padding: 10px;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+  background: #F0F0F0;
+  border-bottom: 1px solid #CCC;
+}
+.header-fixed .navicon {
+  margin: 0;
+  padding: 5px;
+  width: 40px;
+  display: inline;
+  float: left;
+}
+.header-fixed .logo {
+  margin: 0;
+  padding: 5px 10px;
+  width: 50%;
+  display: inline;
+  float: left;
+}
+.header-fixed .userinfo {
+  width: 40%;
+  display: inline;
+  float: left;
+}
+.header-fixed .sidebar {
+  margin: 0;
+  padding: 10px 0 0 0;
+  width: 40px;
+  display: inline;
+  float: right;
+}
+.wrapper {
+  display: table;
+  margin-top: 50px;
+  width: 100%;
+  height: 100%;
+}
+.wrapper .column {
+  display: table-cell;
+  padding: 10px;
+  height: 100%;
+  vertical-align: top;
+}
+.wrapper .column.column-left {
+  padding: 0;
+  width: 48px;
+  background: #FAFAFA;
+  border-right: 1px solid #CCC;
+}
+.wrapper .column.column-center {
+  width: 100%;
+  margin: 0 0 0 48px;
+}
+.wrapper .column.column-right {
+  width: 200px;
+  display: none;
+  border: 1px solid red;
+}
+ul.top-level {
+  margin: 0;
+  padding: 0;
+  width: 48px;
+  text-align: center;
+}
+ul.top-level li {
+  margin: 0;
+  padding: 10px 0;
+  list-style: none;
+  width: 100%;
+  border-bottom: 1px solid #CCC;
+}
+ul.top-level li .fa {
+  font-size: 24px;
+}
+ul.top-level li ul {
+  display: none;
 }
 .row {
   padding-top: 20px;
