@@ -5,22 +5,42 @@ angular.module('inquisio')
         $routeProvider
 
             .when('/', {
-                templateUrl: 'viewA/viewA.html',
-                controller: 'viewAController'
+                templateUrl: 'home/home.html',
+                controller: 'homeController'
             })
 
-            .when('/viewA', {
-                templateUrl: 'viewA/viewA.html',
-                controller: 'viewAController'
+            .when('/home', {
+                templateUrl: 'home/home.html',
+                controller: 'homeController'
             })
 
-            .when('/viewB', {
-                templateUrl: 'viewB/viewB.html',
-                controller: 'viewBController'
+            .when('/posts', {
+                templateUrl: 'posts/posts.html',
+                controller: 'postsController'
+            })
+
+            .when('/links', {
+                templateUrl: 'links/links.html',
+                controller: 'postsController'
+            })
+
+            .when('/tags', {
+                templateUrl: 'tags/tags.html',
+                controller: 'tagsController'
+            })
+
+            .when('/mail', {
+                templateUrl: 'mail/mail.html',
+                controller: 'mailController'
+            })
+
+            .when('/users', {
+                templateUrl: 'users/users.html',
+                controller: 'usersController'
             })
 
             .otherwise({
-                redirectTo: '/viewA'
+                redirectTo: '/home'
             });
 
 });
