@@ -1,12 +1,23 @@
 <div class="container-fluid">
-    <div class="row-md-12">
-        <h2>{{alias.title}}</h2>
+    <div class="row">
+        <div class="col-md-12">
+            <h2>{{alias.title}}</h2>
+        </div>
     </div>
-    <div class="row-md-12">
-        <h4>{{alias.username}}'s tag list</h4>
+    <div class="row">
+        <div class="row-md-12">
+            <h4>{{alias.username}}'s tags list</h4>
+        </div>
     </div>
-{{alias.userid}}
-<div class="row-md-12">
-{{links}}
+    <div class="row">
+        <div class="row-md-12">
+            <p class="todo">Make a list of all tags used in the profile's specific json file. You'll need
+            to take a look at the shared/userFactory.js to create a factory for the profile's links file.
+            Also take a look at the homeController.js for an idea of how to do this.</p>
+            <p class="todo">Advanced level: don't show any duplicates in the tag list.</p>
+            <p class="todo">Really advanced level: create a new factory that holds the tags, without duplicates,
+            and inject that factory into the links page, for use as a filter.</p>
+        </div>
+    </div>
 </div>
-</div>
+

@@ -1,12 +1,24 @@
 <div class="container-fluid">
-    <div class="row-md-12">
-        <h2>{{alias.title}}</h2>
+    <div class="row">
+        <div class="col-md-12">
+            <h2>{{alias.title}}</h2>
+        </div>
     </div>
-    <div class="row-md-12">
-        <h4>{{alias.username}}'s tag list</h4>
+    <div class="row">
+        <div class="row-md-12">
+            <h4>{{alias.username}}'s links list</h4>
+        </div>
     </div>
-{{alias.userid}}
-<div class="row-md-12">
-{{links}}
-</div>
+    <div class="row">
+        <div class="row-md-12">
+            <ol class="todo">
+                <li>Output the profile's links, but show only the first 10 links.</li>
+                <li>Set up a button to show/hide the text for a link, & hide the button if there's no text.</li>
+                <li>Use font-awesome to add icons to each link, only showing if the value is 1 (true), in the json.</li>
+                <li>Add a search field for the links.</li>
+                <li>Add pagination to the links, using angular-ui.</li>
+                <li>Apply a filter to the date to make it readable.</li>
+            </ol>
+        </div>
+    </div>
 </div>

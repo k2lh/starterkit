@@ -1,11 +1,10 @@
-<div class="container-fluid">
+<div class="container-fluid" ng-controller="homeController">
     <div class="row">
         <div class="col-md-10 col-sm-10">
             <h2>{{alias.title}}</h2>
         </div>
         <div class="col-md-2 col-sm-2">
-        <div ng-show="alias.username == 'wallaby'">
-            <div class="triangle-up" style="border-bottom: 100px solid #{{alias.color}};"></div>
+            <div class="avatar"><img src="img/image{{alias.avatar}}.png" /></div>
         </div>
     </div>
     <div class="row">
@@ -15,31 +14,51 @@
     </div>
     <div class="row">
         <div class="col-md-12">
-        {{alias.privacy}}
+
+            <ol class="todo">
+                <li>Use the following line to figure out how to add alternate text that will only show up on public profiles.</li>
+                <li>Use a different fontawesome icon that fits a 'public/viewable' meaning.</li>
+            </ol>
             <div ng-show="alias.privacy">
                 <p><i class="fa fa-eye-slash"></i> This profile is not visible to other users.</p>
             </div>
-            <div ng-show="alias.privacy == 1">
-                is equal to one
-            </div>
-            <p>This profile wants some {{alias.desire}}.</p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-12">
-            <h4>Things to do:</h4>
-            <ul>
-                <li>Replace the colored circle with a different shape & add the shape to that user's entry in the json file.</li>
-                <li>Change the private/public setting based on the private setting in the json file.</li>
-                <li>Output the profile's links, but show only the first 10 links.</li>
-                <li>Set up a button to show/hide the text for a link, & hide the button if there's no text.</li>
-                <li>Use font-awesome to add icons to each link, only showing if the value is 1 (true), in the json.</li>
-                <li>Add a search field for the links.</li>
-                <li>Set up a drop-down that contains all the tags in the user's links json.</li>
-                <li>Filter the results based on the tag selection from the drop down.</li>
-                <li>Add pagination to the links, using angular-ui.</li>
-                <li>Apply a filter to the date to make it readable.</li>
-            </ul>
+
+            <hr>
+
+            <ol class="todo">
+                <li>
+                    Add a 'request' value to four of the profiles.
+                </li>
+                <li>
+                    Display the text ONLY if that request exists.
+                </li>
+            </ol>
+
+            <p>This profile wants {{alias.request}}.
+
+            <hr>
+
+            <ol class="todo">
+                <li>
+                    Add a class to the following div that'll be profile-specific. <span class="hint">(You'll want to use two classes: one for the profile, one for the shape.)</span>
+                </li>
+                <li>
+                    Pick a css3 shape for that profile.
+                </li>
+                <li>
+                    Open the profile's corresponding .less file, and add the new class definition.
+                </li>
+                <li>
+                    Do this for at least three of the profiles in users.json, and edit the json file to include the new class(es).
+                </li>
+                <li>
+                    Hide the div if a profile doesn't have an assigned shape.
+                </li>
+            </ol>
+
+            <div class=""></div>
+
+
         </div>
     </div>
 </div>
