@@ -32,7 +32,7 @@ Once that's done, install a node server. Do it globally, and then you won't have
 
 ```
 npm install -g serve
-cd starterkit/app
+cd starterkit
 serve
 ```
 
@@ -41,6 +41,12 @@ Now the server is running, and you can see the site at localhost:3000/app/. Next
 ```
 cd starterkit
 gulp watch
+```
+
+To actually see the page running, you'll need to go to:
+
+```
+localhost:/3000/app
 ```
 
 ### More coming...
