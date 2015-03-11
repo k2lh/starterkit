@@ -45,7 +45,13 @@ cd starterkit
 gulp watch
 ```
 
-To actually see the page running, you'll need to go to:
+If you get an error when you try to run gulp watch, back up a few steps to the install gulp step, and instead run this: 
+
+```
+npm install -g gulp
+```
+
+That'll install gulp globally (the -g means 'global'), and that should take care of the error. Then just continue from there, as usual. To actually see the page running, you'll need to go to:
 
 ```
 localhost:/3000/app
