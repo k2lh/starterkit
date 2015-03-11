@@ -2,7 +2,7 @@
 
 angular
     .module('inquisio')
-    .controller('viewAController', ['$scope',
+    .controller('homeController', ['$scope',
         function ($scope) {
 
             $scope.hello = "hi there";

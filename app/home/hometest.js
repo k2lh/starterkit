@@ -1,15 +1,15 @@
 'use strict';
 
-describe('inquisio.viewA module', function() {
+describe('inquisio.home module', function() {
 
-  beforeEach(module('inquisio.viewA'));
+  beforeEach(module('inquisio.home'));
 
-  describe('viewA controller', function(){
+  describe('home controller', function(){
 
     it('should ....', inject(function($controller) {
       //spec body
-      var viewAController = $controller('viewAController');
-      expect(viewAController).toBeDefined();
+      var homeController = $controller('homeController');
+      expect(homeController).toBeDefined();
     }));
 
   });

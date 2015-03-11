@@ -1,15 +1,15 @@
 'use strict';
 
-describe('inquisio.viewB module', function() {
+describe('inquisio.mail module', function() {
 
-  beforeEach(module('inquisio.viewB'));
+  beforeEach(module('inquisio.mail'));
 
-  describe('viewB controller', function(){
+  describe('mail controller', function(){
 
     it('should ....', inject(function($controller) {
       //spec body
-      var viewBCtrl = $controller('View2Ctrl');
-      expect(viewBCtrl).toBeDefined();
+      var mailCtrl = $controller('View2Ctrl');
+      expect(mailCtrl).toBeDefined();
     }));
 
   });

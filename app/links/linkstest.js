@@ -1,15 +1,15 @@
 'use strict';
 
-describe('inquisio.viewB module', function() {
+describe('inquisio.links module', function() {
 
-  beforeEach(module('inquisio.viewB'));
+  beforeEach(module('inquisio.links'));
 
-  describe('viewB controller', function(){
+  describe('links controller', function(){
 
     it('should ....', inject(function($controller) {
       //spec body
-      var viewBCtrl = $controller('View2Ctrl');
-      expect(viewBCtrl).toBeDefined();
+      var linksCtrl = $controller('View2Ctrl');
+      expect(linksCtrl).toBeDefined();
     }));
 
   });

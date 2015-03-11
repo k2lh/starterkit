@@ -2,7 +2,7 @@
 
 angular
     .module('inquisio')
-    .controller('viewBController', ['$scope', '$http',
+    .controller('postsController', ['$scope', '$http',
         function ($scope, $http) {
 
             var userid = $scope.alias.userid;

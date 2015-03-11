@@ -1,15 +1,15 @@
 'use strict';
 
-describe('inquisio.viewB module', function() {
+describe('inquisio.tags module', function() {
 
-  beforeEach(module('inquisio.viewB'));
+  beforeEach(module('inquisio.tags'));
 
-  describe('viewB controller', function(){
+  describe('tags controller', function(){
 
     it('should ....', inject(function($controller) {
       //spec body
-      var viewBCtrl = $controller('View2Ctrl');
-      expect(viewBCtrl).toBeDefined();
+      var tagsCtrl = $controller('View2Ctrl');
+      expect(tagsCtrl).toBeDefined();
     }));
 
   });
