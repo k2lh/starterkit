@@ -8,6 +8,8 @@ Install node.js and npm.
 
 Clone the repo. 
 
+Then open the folder where you put your repo, and do the rest.
+
 ### Getting Started
 
 Everything is already set up for you. Just run:
